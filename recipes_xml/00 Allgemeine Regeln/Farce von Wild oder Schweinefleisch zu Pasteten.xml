@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-006">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Farce von Wild oder Schweinefleisch zu Pasteten</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Vier Theile Wild ohne Haut und Sehnen, oder 6 Theile mageres Schweinefleisch wird mit einem Theil frischen Speck recht fein gehackt, dann gibt man hinzu: Zitronenschale, Charlotten, Muskat, Pfeffer, Nelken, Dragon, Kapern, Alles fein gehackt, nebst etwas im Wasser ausgedrückten Weißbrod, Salz, einigen Eierdottern und dem zu Schaum geschlagenen Eiweiß. Alles gut untereinander gerührt, und nach Vorschrift benutzt.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

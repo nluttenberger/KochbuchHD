@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-011">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Weiße Kraftbrühe zu weißem Ragout</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Zu einem Ragout für 12 Personen nimmt man 3 Pfund mageres, in kleine Stücke geschnittenes Rindfleisch, setzt es, mit Wasser bedeckt, zu Feuer; schäumt es gut aus und gibt gleich hinzu: eine halbe Sellerieknolle, eine gelbe Wurzel, eine Petersilienwurzel, 2 Zwiebeln, Alles in Stücke geschnitten, kein Salz, und läßt es 2 Stunden auskochen. Dann gießt man es durch ein Haarsieb, läßt die Brühe ruhig stehen, schüttet sie später ab, daß der Bodensatz zurück bleibt, und nimmt das Fett ab, ehe man sie zum Ragout verwendet.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

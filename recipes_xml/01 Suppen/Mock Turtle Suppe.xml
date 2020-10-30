@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="B-016">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>01 Suppen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Mock Turtle Suppe</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="kalbskopf">Kalbskopf</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="schweinefleisch">Schweineschnauze</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Schweineohren</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="">Ochsengaumen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zunge">geräucherte Ochsenzunge</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Braunes Gewürz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="chili">Cayenne-Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="kalbsbries">Kalbsmidder</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="bratwurst">Saucissen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="worcester">englischer Soja</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Flasche</fr:igdtQuantity>
+                <fr:igdtName ref="madeira">Madeira</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="austern">Austern</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Franzwein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="rum">Rum</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
+            <fr:igdtListName>Klare weiße Rindfleischsuppe</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="rindfleisch">Fleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="schwarzwurzel">Scorzonerwurzel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="knollensellerie">Selleriewurzel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="petersilienwurzel">Petersilienwurzel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="spargel">Spargel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="blumenkohl">Blumenkohl</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
+            <fr:igdtListName>Klöße von Kalb- oder Hühnerfleisch</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="huhn">Hühnerfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Es wird hierzu für 24—30 Personen eine kräftige Bouillon von 8—10 Pfund Rindfleisch mit Wurzelwerk gekocht. Zugleich bringt man einen großen Kalbskopf, eine Schweineschnauze und Ohren, einen Ochsengaumen und eine geräucherte Ochsenzunge zu Feuer und kocht dies Alles gahr, aber nicht zu weich. Kalt, schneidet man es in kleine, länglich viereckige Stückchen, gibt das Fleisch in die Bouillon, nebst braunem Gewürz, ein Paar Messerspitzen Cayenne-Pfeffer, einige Kalbsmidder in Stückchen geschnitten (siehe Vorbereitungsregeln), kleine Saucissen, so viel Kalbskopfbrühe, daß man hinreichend Suppe hat, und macht dies mit in Butter braun gemachtem Mehl gebunden. Nachdem dies Alles ¼ Stunde gekocht hat, kommen noch [Klöße von Kalbfleisch](Klöße von Kalb- oder Hühnerfleisch.html), einige hart gekochte Eier in Würfel geschnitten, ein Paar Eßlöffel Engl. Soja hinzu, und wenn die Klößchen einige Minuten gekocht haben, ½ Flasche Madeira und auch Austern, wenn man sie haben kann. Dann wird die Suppe sogleich angerichtet. </fr:instrStepText>
+            <fr:instrStepText>Anmerk. Der Soja macht die Suppe gewürzreicher, kann jedoch gut wegbleiben, und statt Madeira kann man weißen Franzwein und etwas Rum nehmen. Sowohl die Bouillon als Kalbskopf können schon am vorhergehenden Tage, ohne Nachtheil der Suppe, gekocht werden. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

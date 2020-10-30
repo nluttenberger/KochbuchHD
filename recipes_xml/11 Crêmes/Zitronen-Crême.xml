@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="M-004">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>11 Crêmes</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Zitronen-Crême</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Flasche</fr:igdtQuantity>
+                <fr:igdtName ref="wein">Wein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitronen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eidotter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="stärke">Stärke</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zitronat">Succade</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Eine Flasche Wein, Saft und abgeriebene Schale von zwei Zitronen, 12 Loth Zucker, 12 Eidotter, 1 Eßlöffel voll Stärke unter starkem Rühren bis vor dem Kochen gebracht. Die Crême wird mit fein geschnittenen Blättchen Succade verziert. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

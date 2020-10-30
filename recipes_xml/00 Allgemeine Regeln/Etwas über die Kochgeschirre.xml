@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-001">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Etwas über die Kochgeschirre</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Es ist zwar bekannt genug, daß man bei kupfernen Kochgeschirren die größte Vorsicht anwenden muß, damit die darin gekochten Speisen der Gesundheit nicht nachtheilig werden; dennoch scheint es mir keineswegs überflüssig, meinen jungen Anfängerinnen Einiges darüber mitzutheilen:</fr:instrStepText>
+         <fr:instrStepText>Kochgeschirre von Kupfer und Messing müssen gleich nach jedem Gebrauch gereinigt und getrocknet werden; man koche jedoch keine Speisen oder Bestandtheile zu denselben darin, welche Säuren enthalten, weil diese den giftigen Grünspan leicht entwickeln, vorzüglich dann, wenn die Speisen darin stehen bleiben. Eigentlich sollten solche nur dann gebraucht werden, wenn man sie gut hat verzinnen lassen. Sicherer ist es jedenfalls, Kochgeschirre von Eisen zu benutzen; doch darf man auch in diesen nichts über Nacht stehen lassen, am wenigsten solche Speisen, die Säure enthalten. Eisenglasirte und irdene Töpfe sind allen andern vorzuziehen, weil die Speisen darin den reinsten Geschmack behalten. Zur Aufbewahrung derselben nehme man Gefäße von Stein, Porzellan oder Glas.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

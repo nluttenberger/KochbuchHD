@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="M-15">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>11 Crêmes</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Milch-Crême mit Arrac</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName>Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName>Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Maß</fr:igdtQuantity>
+                <fr:igdtName>Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>10</fr:igdtQuantity>
+                <fr:igdtName>Eidotter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Zitronenschale</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
+                <fr:igdtName>Arrac</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man lasse einen gehäuften Eßlöffel feines Mehl mit einem Stück ausgewaschener guter Butter warm werden, rühre hinzu: 1 Maß Milch, 10 Eidotter, Zucker und Zitronenschale und schlage dies beständig bis vor dem Kochen. Nachdem es nicht mehr ganz heiß ist, rühre man ½ — 1 Tasse Arrac durch. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+</fr:recipe>

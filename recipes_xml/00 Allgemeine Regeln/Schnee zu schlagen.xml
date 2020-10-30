@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-040">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Schnee zu schlagen</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Um einen recht steifen Schnee zu bekommen, von dem das Gerathen mancher Backwerke sehr abhängt, nehme man recht frisches Eiweiß, lasse aber ja nicht das Geringste von den Dottern dazu kommen und schlage es an einem kühlen Ort, mit einem losen Schneebesen oder einer Gabel, am besten auf einer flachen Schüssel von Blech oder Zinn, immer von einer Seite unaufhörlich und gleichmäßig, bis der Schnee so dick und steif ist, daß man ihn umwenden kann, welches eine Zeit von 10—15 Minuten erfordert. Etwas Zitronensaft gleich ins Eiweiß getröpfelt, befördert das Steifwerden sehr. Man darf den Schnee, nachdem er geschlagen ist, keinen Augenblick stehen lassen, wodurch er wässerig wird.</fr:instrStepText>
+         <fr:instrStepText>Soll der Schnee zu Klößchen auf Milch- oder Biersuppen gebraucht werden, so schlage man geriebenen Zucker darunter.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

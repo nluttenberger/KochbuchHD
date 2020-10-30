@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="C-020">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>02 Fische</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Barsch zu kochen auf holländische Art</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="barsch">Bärsche</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Stück</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="pfeffer">ganze Pfefferkörner</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="petersilienwurzel">kleine Petersilienwurzeln</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Die Bärsche werden bloß auf dem Bauche mit einem Reibeisen geschuppt, ausgenommen, aber so, daß Milch und Leber darin bleiben, gut gespült und etwa 10 Minuten in wenig kochendem Salzwasser gekocht, in welchem man vorher ein Stück Butter, ganze Pfefferkörner, ziemlich viel kleine Petersilienwurzeln, auf denen noch einige grüne Blätter sind, hat weich kochen lassen. Man legt die Petersilienwurzeln beim Anrichten zwischen die Bärsche in eine Schüssel und bringt sie mit dem Wasser, worin sie gekocht sind, recht heiß und dampfend zur Tafel. </fr:instrStepText>
+            <fr:instrStepText>Eine Schüssel als Voressen.</fr:instrStepText>
+            <fr:instrStepText>Der Barsch bedarf mehr Salz als der Aal, weniger als die Forelle. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Es werden zierliche Butterbrödchen dabei herumgereicht. </fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

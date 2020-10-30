@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="Q-089">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>15 Backwerk</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aepfel- oder Zwetschenkuchen von Hefenteig</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Löffel</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
+                <fr:igdtName ref="milch">Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+                <fr:igdtName ref="hefe">Hefe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zwetschge">Zwetschen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="apfel">Aepfel</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man gibt 1 Pfund Mehl in eine Schale, legt in die Mitte 12 Loth geschmolzene Butter, 1 Löffel Zucker, rührt dies mit einer Tasse lauwarmer Milch, worin man 2 Loth trockene, oder 2 Eßlöffel dicker Hefe zerrührt hat, und 2 Eiern zum lockeren Teig, läßt ihn aufgehen, rollt ihn dünn aus und legt ihn auf eine bestrichene eiserne Platte; dann bestreicht man ihn mit geschmolzener Butter, streut Zucker und Zimmet darüber, läßt Obst, in Scheiben geschnittene Aepfel, oder ausgesteinte frische Zwetschen in einem Topf mit etwas Butter warm werden, legt sie darauf dicht aneinander( die Zwetschen offen, die inwendige Seite nach oben), kleine Stückchen Butter, Zucker und Zimmet darüber und läßt den Kuchen an einem warmen Ort so lange stehen, bis er gut aufgegangen ist, und backt ihn schnell gahr. </fr:instrStepText>
+            <fr:instrStepText>Das Erwärmen des Obstes macht den Kuchen bedeutend besser.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Nach Belieben kann man einen [Sahnenguß No. 10](Guß zu Kuchen von frischen Zwetschen.html) darüber machen, ehe der Kuchen ganz gahr ist, und ihn dann vollends gahr backen. </fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

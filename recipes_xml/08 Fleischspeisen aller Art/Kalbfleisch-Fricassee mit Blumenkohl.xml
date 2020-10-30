@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="I-065">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>08 Fleischspeisen aller Art</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Kalbfleisch-Fricassee mit Blumenkohl</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList noshow="noshow" fromRecipe="Kalbfleisch-Fricassee mit Scorzoner- oder Schwarzwurzeln" fromRcpID="I-064" fromBook="KochbuchHD" fromChapter="08 Fleischspeisen aller Art">
+            <fr:igdtListName>Kalbfleisch-Fricassee</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="kalbfleisch">Kalbsbrust oder Rippenstück</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskatblüthe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 - 2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eidottern</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Blumenkohl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Das [Fricassee](Kalbfleisch-Fricassee mit Scorzoner- oder Schwarzwurzeln.html) ohne Scorzonern wird bereitet nach voriger Angabe. Zugleich kocht man in kleine Stücke geschnittenen Blumenkohl in Wasser und Salz langsam gahr, damit er ein schönes Ansehn behält, richtet das Fleisch in der Mitte der Schüssel an, legt den Blumenkohl zierlich daran herum, die Blumen nach oben (jedoch muß man denselben erst behutsam auf ein Sieb legen, damit das Wasser ablaufe), und gibt dann über die angerichtete Schüssel die reichlich lange und recht sämige Sauce. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

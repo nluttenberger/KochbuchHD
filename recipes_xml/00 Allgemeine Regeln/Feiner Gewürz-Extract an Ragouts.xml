@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-027">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Feiner Gewürz-Extract an Ragouts</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Die Kerne von 60 Stück reifen Wallnüssen legt man einige Minuten in heißes Wasser, reibt mit einem Tuche die Haut ab, trocknet dieselben und legt sie mit folgenden Gewürzen schichtenweise in einen steinernen Topf: ein Loth Muskatenblüthe, Nelken, Knoblauch, Ingwer, 2 Loth gelben Senfsaamen, Alles fein gestoßen, das Knoblauch zerschnitten, ¼ Loth ganzen, weißen Pfeffer, eine Stange geriebenen Meerrettig, eine Hand voll Salz, 6—8 Lorberblätter; dann kocht man ein Maß guten WeinesssgWeinessig, schüttet ihn erkaltet darauf, bindet den Topf zu, setzt ihn an die Luft, füllt nach Verlauf von 2—3 Wochen von diesem gewürzreichen Saft kleine Flaschen, verkorkt sie und schüttet wieder gekochten und kalt gewordenen Essig nach, der noch wieder kräftig genug wird. Man nimmt von diesem Extract zu einem Ragout für 6 Personen einen Theelöffel voll statt aller anderen Würze.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

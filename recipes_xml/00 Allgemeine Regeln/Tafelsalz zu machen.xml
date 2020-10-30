@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-065">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Tafelsalz zu machen</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Zu 6 Pfund gewöhnlichem Kochsalz gibt man 6 Maß Wasser. Das Salz läßt man in dem Wasser durch Umrühren sich auflösen und dann einige Tage ruhig stehen, bis das Unreine auf dem Boden des Gefäßes sich angesetzt hat. Ist dies Salzwasser so klar wie Brunnenwasser, so wird es in ein rein verzinntes Geschirr abgeschüttet, aufs Feuer gesetzt, und wenn es zum Theil verkocht ist, das sich auf dem Boden angesetzte Salz fortwährend und so lange mit einem Schaumlöffel herausgenommen und auf ein ausgespanntes Tuch zum Ablaufen des Wassers gelegt, bis Alles verkocht ist. Das nun gewonnene Salz trocknet man auf großen Schüsseln, entweder auf dem Ofen oder in einem Backofen, schützt es jedoch sorgfältig vor Staub und sorgt dafür, daß es durch zu große Hitze nicht anbrenne oder gelb werde.</fr:instrStepText>
+         <fr:instrStepText>Sollte das Salzwasser sich nicht gut klären, so muß es vor dem Einkochen durch ein Flanelltuch filtrirt werden. Je reiner das Wasser, desto weißer wird das Salz.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

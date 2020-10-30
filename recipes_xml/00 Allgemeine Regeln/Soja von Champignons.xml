@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-028">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Soja von Champignons</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Man nehme einen guten Theil Champignons, schneide die Wurzeln ab und wasche sie gehörig. Dann schneide man sie ungeputzt in kleine Stücke und gebe sie mit halb gestoßenem Gewürz, als: Nelken, Pfeffer, Nelkenpfeffer, Dragon, Schnittlauch, Basilikum, Charlotten zerschnitten, und nicht zu viel Salz in einen steinernen Napf und lasse es zwei Tage stehen. Dann drücke man die Champignons mit der Hand rein aus, lasse den Saft langsam durch ein sauberes Tuch laufen, setze ihn zu Feuer und lasse ihn langsam wie Syrup einkochen. In Flaschen gefüllt und verkorkt hält sich dieser Extract recht lange und dient dazu: Fleischspeisen und Saucen einen kräftigen und angenehmen Geschmack zu geben; nur muß man ihn theelöffelweise anwenden, weil er sehr stark ist.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

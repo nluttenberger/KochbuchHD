@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="Q-085">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>15 Backwerk</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aepfel-Torte von Butterteig mit einem Guß</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="apfel">Aepfel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Ein guter Butterteig für Torten und Pasteten" fromRcpID="Q-005" fromBook="KochbuchHD" fromChapter="15 Backwerk">
+            <fr:igdtListName>Butterteig</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>20 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Ei</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Messerspitze</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Guß zu Kuchen von frischen Zwetschen" fromRcpID="Q-010" fromBook="KochbuchHD" fromChapter="15 Backwerk">
+            <fr:igdtListName>Guß zu Kuchen von frischen Zwetschen</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man rollt ⅔ des Teiges nach [No. 5](Ein guter Butterteig für Torten und Pasteten.html) aus, legt in Scheibchen geschnittene Aepfel, mit Zimmet und Zucker bestreut, dick darauf und setzt den Kuchen bei 1 Grad Hitze in den Ofen. Ehe er ganz gahr ist, macht man einen Sahnenguß nach [No. 10](Guß zu Kuchen von frischen Zwetschen.html), gibt ihn gleichmäßig über das Obst und läßt ihn vollends gahr werden. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

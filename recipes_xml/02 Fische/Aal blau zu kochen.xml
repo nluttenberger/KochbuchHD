@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="C-005">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>02 Fische</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aal blau zu kochen</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Guß</fr:igdtQuantity>
+                <fr:igdtName ref="essig">Essig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="aal">Aal</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="lorbeer">Lorberblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="schalotten">Charlotten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="nelken">Nelken</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 kleines Stück</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="senf">Senf</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="meerrettich">Meerrettig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Oel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Großen Aalen zieht man die Haut ab, indem man solche unter den Brustflossen rund herum einschneidet, einen Finger breit lostrennt und sie mit einem groben Tuch und Salz nach dem Schwanz hin abstreift, was, sobald man im Zuge ist, sehr leicht von statten geht; nur muß man an den Schwanzflossen durch Losschneiden nachhelfen. Kleine Aale reibt man stark mit Salz; dann wird der Leib aufgeschnitten, ausgeweidet und gut gewaschen. Darauf legt man sie einige Minuten, aber nicht länger, in heißes Wasser, wodurch sie besser gereinigt werden können, schneidet sie in 3 Finger breite schräge Stücke (die Spitze des Schwanzes soll schädlich sein, der Kopf aber gibt die beste Gallerte), begießt diese mit heiß gemachtem Essig und läßt sie zugedeckt ½ Stunde liegen. Dann wird der Aal in Wasser, einem Guß Essig, Salz, etwas Lorberblätter, Zitronenscheiben, einigen Charlotten, ganzem Pfeffer, Nelken und einem kleinen Stück Butter ungefähr 10—15 Minuten nicht zu stark gekocht und heiß mit Kartoffeln, Butter und Senf zur Tafel gegeben. Auch ist geriebener Meerrettig mit Essig, feinem Oel und etwas Zucker zugerührt, gut dazu. Man thut wohl, die Aalbrühe aufzuheben, und im Fall Aalstücke über bleiben, sie darin aufzubewahren. Der Aal bedarf, gleich wie der Lachs, weniger Salz als die übrigen Fische . </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

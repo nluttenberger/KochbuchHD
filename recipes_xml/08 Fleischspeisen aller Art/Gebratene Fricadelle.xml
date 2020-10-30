@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="I-029">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>08 Fleischspeisen aller Art</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Gebratene Fricadelle</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Theil</fr:igdtQuantity>
+                <fr:igdtName ref="rindfleisch">Rindfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Theil</fr:igdtQuantity>
+                <fr:igdtName ref="kalbfleisch">Kalbfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Theil</fr:igdtQuantity>
+                <fr:igdtName ref="schweinefleisch">Schweinefleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>6 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1½ Loth</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskatblüthe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>5 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="zwieback">Zwieback</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="wacholder">Wachholderbeeren</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Wird überaus fein und wohlschmeckend, wenn man dazu 1 Theil Rind-, 1 Theil Kalb- und 1 Theil durchwachsenes Schweinefleisch fein unter einander hackt und dann zu 1 ½ Pfund Fleisch 6 Loth Butter nimmt. Diese Mischung kann man jedoch nicht immer haben und man zerhackt dann 1 ½ Pfund gutes Bollenfleisch mit 8 Loth Nierenfett oder frischem Speck ganz fein, gibt dazu 4 ganze Eier, 1 ½ Loth Salz, Muskatblüthe, 5 Loth gestoßenen Zwieback oder geriebenes Weißbrod und 1 Tasse kaltes Wasser. Dies unter einander gemischt, zum runden Ball geformt, mit der nassen Hand recht glatt gemacht, mit Zwieback bestreut, in steigende Butter gelegt, gelb gebraten, 2 Tassen Wasser dazu gegeben und unter fleißigem Begießen im Ofen ferner 1 Stunde gebraten. Die Fricadelle muß dunkelgelb, nicht braun sein. Hat der Ofen von unten nicht die gehörige Hitze, kann man sie erst ½ Stunde auf dem Feuer zugedeckt braten lassen und dann in den Ofen stellen, damit sie oben Farbe bekommt. Man kann auch gleich einige fein gestoßene Wachholderbeeren in die Butter geben, ehe die Fricadelle hineingelegt wird. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

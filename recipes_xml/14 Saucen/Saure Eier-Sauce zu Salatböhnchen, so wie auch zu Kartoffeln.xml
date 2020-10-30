@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="P-019">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>14 Saucen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Saure Eier-Sauce zu Salatböhnchen, so wie auch zu Kartoffeln</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Saure Eier-Sauce</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>¼ Maß</fr:igdtQuantity>
+                <fr:igdtName ref="">kaltes Wasser</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="essig">Essig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eidotter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Ei dick</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man nimmt ¼ Maß kaltes Wasser, welches mit so vielem Essig vermischt ist, daß die Sauce die gewünschte Säure bekommt. Hiermit rührt man 3 Eidotter ( wenn die Eier theuer sind, 2 ganze Eier ) und einen Theelöffel Mehl an, gibt sehr reichlich ein Ei dick Butter dazu und läßt die Sauce auf starkem Feuer unter fortwährendem Rühren bis vor dem Kochen kommen, nimmt sie schnell vom Feuer und rührt sie noch einige Augenblicke, damit sie nicht gerinne. </fr:instrStepText>
+            <fr:instrStepText>Diese angegebene Portion ist auf 3 Personen berechnet.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

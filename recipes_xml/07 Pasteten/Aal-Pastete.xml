@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="H-017">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>07 Pasteten</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aal-Pastete</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Aal</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="aal">Aal</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="brot">Semmel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Ein guter Butterteig für Torten und Pasteten" fromRcpID="Q-005" fromBook="KochbuchHD" fromChapter="15 Backwerk">
+            <fr:igdtListName>Butterteig</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>20 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Ei</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Messerspitze</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Wird gemacht wie [No. 15](Pastete von ungesalzenen See- und Flußfischen.html), indeß bleibt der Rückgrat im Aal und zur Farce werden einige fein gehackte Salbeiblätter gefügt. Hat man keinen Fisch zur Farce, kann man als Aushülfe geriebene Semmel mit Stückchen Butter unter und über den Aal streuen. Der Teig zu dieser Pastete darf nicht fett gemacht sein, [Q. No. 5](Ein guter Butterteig für Torten und Pasteten.html) ist passend dazu.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

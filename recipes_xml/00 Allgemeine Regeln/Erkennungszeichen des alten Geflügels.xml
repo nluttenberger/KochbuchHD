@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-002">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Erkennungszeichen des alten Geflügels</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Beim Ankauf des Geflügels ist es nöthig, mit den Merkmalen bekannt zu sein, an welchen man junges von altem Geflügel unterscheidet. Alte Hühner und Tauben, die zwar den Suppen und Saucen mehr Kraft als junge geben, als Fleischspeise aber ungenießbar sind, erkennt man an einem gedrungenern, stärkeren Körperbau, härteren Brustknochen, einer sprödern, dickern, sogenannten Hühnerhaut, etwas stumpfern abgenutzten Klauen; Gänse und Enten an stärkern Fußballen, dickerer Schwimmhaut und harten Schnäbeln; Puter an ihren rothen Beinen und den stärkern schwammichten Fleischlappen auf dem Kopf und unter der Kehle.</fr:instrStepText>
+         <fr:instrStepText>Nach diesen Erkennungszeichen läßt sich beim Ankauf auch das wilde Geflügel einigermaßen beurtheilen. Ob es frisch ist — das muß hauptsächlich der Geruch bestimmen.</fr:instrStepText>
+         <fr:instrStepText>Man kann es vom Augenblick an, wo es geschossen ist, im Herbst in den Federn, kalt und luftig hängend, mehrere Tage aufbewahren; doch muß es gleich, nachdem es geschossen ist, ausgeweidet werden. Zu langes Aufbewahren nach vornehmer Sitte, macht es aber ekelhaft.</fr:instrStepText>
+         <fr:instrStepText>Auch sehe man beim Ankauf des zahmen Geflügels darauf, recht fettes zu kaufen, es ist dieses wenigstens ¼ des Preises mehr werth, so wie es überhaupt keine Ersparniß ist, schlechtes Fleisch billiger zu kaufen.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

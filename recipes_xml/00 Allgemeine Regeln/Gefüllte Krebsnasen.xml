@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-017">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Gefüllte Krebsnasen</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Die Krebse werden in brausend kochendem Wasser mit Salz und etwas Essig gekocht. Dann bricht man die Schwänze von den Köpfen, macht das Inwendige heraus und füllt sie mit der Farce Nro. 7, jedoch nimmt man statt Zwiebeln etwas fein gehackte Petersilie dazu. Sie werden ¼ Stunde im Fricassee gekocht oder auch wohl gebraten, und man gibt sie mit den Krebsschwänzen erst beim Anrichten hinein. Auch kann man die Farce Nro. 9 hinein füllen; so auch die Masse, von der man Schwammklöße macht. Dann läßt man solche in kochendem Wasser mit Salz gahr kochen.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

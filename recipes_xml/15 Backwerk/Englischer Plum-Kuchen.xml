@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="Q-16">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>15 Backwerk</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Englischer Plum-Kuchen</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName>Schmelzbutter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Sahne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12</fr:igdtQuantity>
+                <fr:igdtName>Eidotter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName>Succade</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Loth</fr:igdtQuantity>
+                <fr:igdtName>Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>¼ Loth</fr:igdtQuantity>
+                <fr:igdtName>Nelken</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName>Stärke</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName>Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas Pfund</fr:igdtQuantity>
+                <fr:igdtName>Korinthen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Blasen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName>Madeira</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Arrac</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Ein Pfund Schmelzbutter wird zu Sahne gerieben, hinzugerührt nach und nach 12 Eidotter, 4 Loth geschnittener Succade, ½ Loth Zimmet, ¼ Loth Nelken, beides sein gestoßen, den steifen Schaum der Eier, 1 Pfund sein gestoßene und durchgesiebte Stärke, welches mit einem Pfund Zucker vermischt ist, und 1 Pfund gewaschener und im Ofen wieder etwas getrockneter Korinthen . Dies Alles stark geschlagen, bis die Masse Blasen wirft, dann ein Weinglas voll Madeira oder Arrac durchgerührt und 1 ½ Stunden bei einer Mittelhitze gebacken. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+</fr:recipe>

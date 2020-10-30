@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-060">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Vom Verbessern stark gewordener Butter</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Sollte die Milch nicht gehörig ausgewaschen sein, welches die häufigste Ursache schlechter Butter ist, so thut man wohl, die Butter nochmals gut durchzukneten und zwar mit etwas scharfem, weißem Essig, der aber wieder gut heraus gearbeitet werden muß. Darauf macht man sie in gut gereinigte Töpfe ein und sticht in jeden Topf 4—6 Süßholzstangen bis auf den Grund hinein.</fr:instrStepText>
+         <fr:instrStepText>Nach Verlauf von einigen Wochen werden diese den starken Geschmack aufgenommen und die Butter sich ganz bedeutend verbessert haben.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

@@ -1,0 +1,31 @@
+<fr:igdtList xmlns:fr="http://fruschtique.de/ns/recipe" noshow="noshow" fromRecipe="Englischer Teig für Torten und kleines Backwerk" fromRcpID="Q-006" fromBook="KochbuchHD" fromChapter="15 Backwerk">
+    <fr:igdtListName>Englischer Teig</fr:igdtListName>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>¼ Pfund</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>¼ Pfund</fr:igdtQuantity>
+        <fr:igdtName ref="mandel">Mandeln</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eidotter</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>9</fr:igdtQuantity>
+        <fr:igdtName ref="">Eier</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>2 Gläser</fr:igdtQuantity>
+        <fr:igdtName ref="wein">weißer Wein</fr:igdtName>
+    </fr:igdtListLine>
+</fr:igdtList>

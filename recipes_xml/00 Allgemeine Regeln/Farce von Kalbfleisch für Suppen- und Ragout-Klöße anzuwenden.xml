@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-008">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Farce von Kalbfleisch für Suppen- und Ragout-Klöße anzuwenden</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Kalbfleisch-Farce</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="kalbfleisch">Kalbfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="nierenfett">Mark- oder Nierenfett</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="brot">Weißbrod</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText>Ein halbes Pfund Kalbfleisch wird mit 2 Loth Mark- oder Nierenfett fein gehackt, und 4 Loth zerrührte Butter, Muskat, 4 Loth in kaltem Wasser geweichtes ausgedrücktes Weißbrod und 2 Eier, das Weiße zu Schaum geschlagen, hinzugegeben und Alles wohl untereinander gerührt.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

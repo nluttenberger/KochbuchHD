@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-022">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Krebsbutter</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Krebsbutter</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>20</fr:igdtQuantity>
+                <fr:igdtName ref="krebs">Krebse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText>Es werden etwa 20 Stück Krebse mit kochendem Wasser ohne Salz zu Feuer gesetzt und 5 Minuten gekocht. Dann nimmt man das Fleisch aus den Schalen heraus, macht alle Fasern und das Gehirn heraus, wäscht und stößt dann sämmtliche Schalen mit 12 Loth Butter im Mörser nicht ganz fein, setzt sie zu Feuer und rührt sie zuweilen durch, bis die Masse roth wird und zu steigen anfängt. Dann gießt man ½ Maß Wasser dazu, läßt es eben kochen und gibt es durch ein Haarsieb in eine tiefe Schüssel. Wenn es ganz kalt geworden, kann man die rothe Butter abnehmen und verwenden. Das Wasser, welches den Geschmack der Krebse annimmt, kann zur Suppe gebraucht werden, besonders wenn man statt Wasser Bouillon zu den Krebsen gießt. Die Krebsschwänze gibt man in die Suppe oder zum Fricassee.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

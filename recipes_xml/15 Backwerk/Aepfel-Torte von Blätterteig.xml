@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="Q-081">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>15 Backwerk</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aepfel-Torte von Blätterteig</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="apfel">Aepfel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="mandel">Mandeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 - 2</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitronen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Ein sehr guter Blätterteig" fromRcpID="Q-002" fromBook="KochbuchHD" fromChapter="15 Backwerk">
+            <fr:igdtListName>Blätterteig</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 kleines Glas</fr:igdtQuantity>
+                <fr:igdtName ref="weinbrand">Branntwein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Ei</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Es wird ein Blätterteig nach [No. 2](Ein sehr guter Blätterteig.html) gemacht, die Hälfte desselben zu einem Unterblatt ausgerollt. Dann nimmt man gute in Scheibchen geschnittene Aepfel, 4 Loth Mandeln (eine halbe Tasse voll), 1—2 in dünne Scheibchen geschnittene Zitronen, Zimmet und so viel Zucker, daß die Aepfel gehörig süß werden. Dies Alles wird mit den Aepfeln lagenweise auf den Teig gelegt, mit einem Oberblatt bedeckt, oder ein Gitter nach [No. 62](Französische Torte.html) darüber gemacht und bei starker Hitze gebacken. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

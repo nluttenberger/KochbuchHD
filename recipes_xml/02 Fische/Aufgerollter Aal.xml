@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="C-009">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>02 Fische</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aufgerollter Aal</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="aal">Aal</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 - 5</fr:igdtQuantity>
+                <fr:igdtName ref="ei">hart gekochte Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="schalotten">Charlotten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="majoran">Majoran</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskatnuß</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="fisch">kleine Fische</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Den Aal zieht man ab, schneidet ihn auf, nimmt Eingeweide und Gräte heraus, die Flossen weg und wäscht ihn gehörig. Dann legt man ihn auseinander und streut etwas Salz darüber. Hat man kleine Aale, so näht man ein Paar aneinander, damit die Rolle nicht zu schmal werde. Darauf macht man ein Füllsel von 4—5 hart gekochten Eiern, Petersilie, Charlotten, Thymian und Majoran, Alles gehackt, Muskatnuß und Salz, und wenn man sie hat, einige kleine Fische gehackt hinzu. Gut unter einander gemischt, streicht man es über die inwendige Seite des Aals, rollt ihn fest auf einander, bindet vorsichtig Bindfaden darum, läßt Butter in einem Brattopf zergehen, stellt die Rolle in demselben in die Höhe und läßt sie rund herum gelb und weich braten. Will man den Aal auf diese Weise gefüllt kochen, bindet man ein Tuch darum und kocht ihn in Wasser und Salz gahr.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Warm wird der Aal zu jungen Erbsen, kalt in Scheiben geschnitten mit der [Sauce Remoulade](Sauce Remoulade.html) oder à la diable als Mittelschüssel gegeben.</fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

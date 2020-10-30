@@ -1,0 +1,15 @@
+<fr:igdtList xmlns:fr="http://fruschtique.de/ns/recipe" noshow="noshow" fromRecipe="Klöße von Eiweißschaum zu Wein-, Bier- und Milch-Suppen" fromRcpID="L-016" fromBook="KochbuchHD" fromChapter="10 Klöße">
+    <fr:igdtListName>Klöße von Eiweißschaum</fr:igdtListName>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+    </fr:igdtListLine>
+</fr:igdtList>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-068">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Vom Aufbewahren verschiedener Artikel</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Frisches Fleisch hält sich am besten im Winter, hängend an einem kalten, luftigen Orte; im Sommer, um und um mit Brennesseln bedeckt im Keller auf einem Stein.</fr:instrStepText>
+         <fr:instrStepText>Geräucherte Schinken und Sommerwürste mit Stroh umwickelt, in Leinen genäht, an einem kühlen, luftigen Orte hängend.</fr:instrStepText>
+         <fr:instrStepText>Feldhühner mehrere Wochen unverändert, wenn man sie gleich nach dem Schießen und Ausnehmen ungepflückt tief in eine Kiste mit Hafer steckt und solche zumacht.</fr:instrStepText>
+         <fr:instrStepText>Kartoffeln, wenn man sie im März auf eine andere Stelle legt. Das Umpacken verhindert das starke Auskeimen, wodurch die Kartoffeln sehr an gutem Geschmack verlieren.</fr:instrStepText>
+         <fr:instrStepText>Winterwurzeln (Möhren), wenn man auf einen Theil derselben Kartoffeln schüttet. Sind diese im Frühjahr verbraucht, so wird man finden, daß die Wurzeln noch ganz saftig und wohlschmeckend geblieben sind. Auf gleiche Weise kann man es auch mit Steckrüben (Kohlraben in der Erde) machen. Doch ist dies bei der jetzt noch herrschenden Kartoffelfäule nicht anzurathen, sondern man bewahre sie, so lange diese noch dauert, schichtenweise in Sand gelegt, auf.</fr:instrStepText>
+         <fr:instrStepText>Rother und weißer Kohl (Kappus) bewahrt sich, so lange es nicht friert, am besten auf dem Boden (Speicher), dann im Keller. Sollte er durch Frost gelitten haben, muß man ihn ruhig liegen lassen, damit der Frost wieder ausziehe. Dann aber hat er den guten Geschmack verloren und läßt sich nicht lange mehr aufbewahren.</fr:instrStepText>
+         <fr:instrStepText>Feldrüben bewahren sich am besten in einer tiefen Grube. Dies ist aber etwas umständlich und man kann sie auch dadurch bis Weihnachten gut erhalten, wenn man sie draußen hinschüttet und stark mit Laub oder Stroh bedeckt.</fr:instrStepText>
+         <fr:instrStepText>Zwiebeln erhalten sich vorzüglich, wenn sie im Herbst, zum Abtrocknen einige Wochen dünn auseinander gelegt, vor dem Frost in einen Korb gethan, und um und um reichlich mit Heu bedeckt werden.</fr:instrStepText>
+         <fr:instrStepText>Spargel erhalten sich einige Tage ganz frisch, wenn man sie an einem schattigen Orte tief in die Erde legt.</fr:instrStepText>
+         <fr:instrStepText>Aepfel halten sich am besten, wenn man sie an einem trockenen Tage vorsichtig, damit sie keine Fallflecke bekommen, pflückt, gleich in den Keller bringt, auf hölzernen Bänken neben einander legt, und immer gehörig nachsieht, daß jeder angefaulte Apfel weggenommen wird.</fr:instrStepText>
+         <fr:instrStepText>Frische Pflaumen (Zwetschen), wenn man sie an einem sonnigen Tage mit Handschuhen gleich in einen neuen steinernen Topf, worin noch kein Wasser gewesen ist, pflückt, denselben mit einer Blase zubindet, in den Keller stellt, einen platten Stein, der längere Zeit in der Sonne gestanden hat, darauf legt und nun den Topf ganz mit trockner Erde bedeckt.</fr:instrStepText>
+         <fr:instrStepText>Abgeschnittene Trauben, wenn man den Abschnitt verlackt und sie an einem kühlen, zugigen Orte aufhängt, nur dürfen die Trauben sich nicht berühren.</fr:instrStepText>
+         <fr:instrStepText>Trauben am Stock, wenn man die kleinen, eben angesetzten Trauben in ein weites Medizinglas steckt, und solche so festbindet, daß die Trauben unberührt in den Gläsern wachsen können. Sie gewinnen dadurch an Süße, und werden vor Kälte geschützt, besonders, wenn man vor dem Frieren die Gläser mit Werg (Hede) umbindet.</fr:instrStepText>
+         <fr:instrStepText>Zitronen halten sich sehr gut, wenn man sie in einen neuen aufrecht stehenden Reiserbesen legt und diesen in den Keller stellt.</fr:instrStepText>
+         <fr:instrStepText>Eier bleiben frisch, wenn man solche, die nach der Blüthenzeit gelegt sind, frisch in einem steinernen Topfe mit dünnem Kalkwasser bedeckt, in den Keller stellt. Monate lang nachher kann man die Eier noch zu Backwerk gebrauchen, da sich das Weiße zu festem Schaum schlagen läßt.</fr:instrStepText>
+         <fr:instrStepText>Oder: man bestreicht die ganz frischen Eier mit geschmolzenem Talg und bewahrt sie an einem kühlen Orte auf.</fr:instrStepText>
+         <fr:instrStepText>Mehl bewahrt sich am besten in einem Sacke, den man an einem trockenen, luftigen Orte aufhängt.</fr:instrStepText>
+         <fr:instrStepText>Baumöl, unverkorkt in einem luftigen Keller.</fr:instrStepText>
+         <fr:instrStepText>Anmerk. Die Pflaumen sind alsdann um Weihnachten noch ganz frisch, nur halten sie sich, wenn der Topf geöffnet ist, nicht lange mehr, weßhalb man wohl thut, einige kleine Töpfe zu füllen. Es versteht sich von selbst, daß hierzu nur ganz feste Pflaumen, die nicht im Geringsten beschädigt sind, genommen werden.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

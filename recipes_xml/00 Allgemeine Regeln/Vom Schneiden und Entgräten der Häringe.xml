@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-062">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Vom Schneiden und Entgräten der Häringe</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Die ersten Häringe sollen zwar weder ausgenommen, noch abgespült werden; ich stimme indeß nicht mit ein, abgezogen werden sie jedoch nicht.</fr:instrStepText>
+         <fr:instrStepText>Aeltere Häringe werden, je nachdem sie mehr oder weniger salzig sind, zwei, drei, bis sechs Stunden an einem kalten Ort in ganz kaltes Wasser gelegt; vorher aber müssen sie ausgenommen und gut abgewaschen sein. Nachdem wird mit einem scharfen Messer die Haut, und zwar vom Kopfe nach dem Schwanz hin, abgezogen, doch darf dabei der Häring auf keine Weise zerfetzt werden. Ist er nun abgezogen, so wird er auf ein Küchenbrett gelegt, ein feines Streifchen am Leib herunter abgeschnitten, nochmals abgespült, mit der Hand das Wasser abgestreift, auf das abgespülte Küchenbrett gelegt und ganz schräg, nach Gefallen sehr fein, oder fingerdick geschnitten. Im ersten Fall wird der Kopf auseinander gebogen, auf die bestimmte Schüssel gelegt und die feinen Scheibchen, die runde Seite nach außen, zu beiden Seiten schräg daran gelegt und zwar nach der Reihenfolge wie sie geschnitten sind, bis der Schwanz den Schluß bildet. So schön die Häringe auf diese Weise gelegt werden können, so finde ich doch, daß sie appetitlicher aussehen, wenn weniger Kunst dabei angewandt ist. Man wird sicher ohne Weiteres mich verstehen. Im zweiten Fall, nachdem der Häring recht schräg in dicke Scheiben geschnitten ist, wird derselbe so auf die Schüssel gelegt, daß er ganz seine vorige Gestalt wieder einnimmt und nur eine Seite zu sehen ist. Es können zwei bis drei auf eine Schüssel gelegt werden. Der Rand der Schüssel wird mit Petersilienblättchen verziert. Einzelne Häringe legen sich auch gut auf Dessertteller, wo sie alsdann eine runde Form erhalten.</fr:instrStepText>
+         <fr:instrStepText>Zum Butterbrod werden die Häringe entgrätet und zwar wie folgt: es wird ein Schnitt am Rückgrat herunter gemacht, der Häring am Schwanz durchgerissen, wobei mit dem Daumen nachgeholfen werden muß. Das Fleisch wird alsdann in Form der Sardellen geschnitten, schrägwinkelig auf ein Tellerchen gelegt und mit feinem Oel und etwas Essig übergossen.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="Q-115">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>15 Backwerk</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Gefüllte Frucht-Törtchen</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Aepfel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Zitronensaft</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Eiweiß</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Vanille</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Mandeln</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Ein mürber Teig wird dünn ausgerollt und kleine Formen damit ausgelegt. Vorher aber hat man Quitten mit der Schale weich gekocht, eben so viel saure Aepfel gebraten. Von Beiden nimmt man das Inwendige ohne Kerngehäuse und Schale, rührt Zucker, Zitronensaft und Schale durch, und füllt hiervon die Formen. Zugleich hat man Eiweiß zu Schaum schlagen lassen, schlägt Zucker und etwas mit Zucker gestoßener Vanille durch, streicht dies über die Törtchen, bestreut sie mit gröblich gestoßenen Mandeln, die mit Zucker vermischt sind, und backt sie bei ziemlich starker Hitze. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+</fr:recipe>

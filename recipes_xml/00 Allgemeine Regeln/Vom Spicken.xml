@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-004">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Vom Spicken</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Das Spicken macht die Braten saftiger und gibt ihnen zugleich ein gutes Ansehen. Der Speck zum Spicken muß gesalzen sein, noch besser ist der, welcher einen Luftrauch erhalten hat. Es gehört dazu ein festes Stück, welches man auf ein Küchenbrett legt und mit einem scharfen Messer lang und 3 Finger breit von der Schwarte abschneidet, sägend, nicht drückend, in dünne Scheiben theilt, diese glatt auf einander legt und davon der Breite nach dünne gleichmäßige Streifchen schneidet. Nun steckt man mit der linken Hand ein Speckstreifchen in die Nadel, zieht es mit der rechten so weit durch das Fleisch, daß es an beiden Seiten einen Finger breit heraus steht, das zweite Streifchen unmittelbar daneben und so fortgefahren, bis man eine gleichmäßige Reihe Speckstreifchen durchgezogen hat, die eine grade Linie bilden. Dann fängt man nebenbei wieder eine neue Reihe an. So macht man bei Hasen, die sein gespickt werden sollen, an beiden Seiten des Rückens der Länge nach herunter 2 Reihen, also 4 im Ganzen; für gewöhnlich sind 2 wohl hinreichend. Bei andern Wildbraten, wie bei Geflügel wird das Spicken auf gleiche Weise gemacht. Die Spicknadeln, die man in Haushaltungen, wo viel gespickt wird, gerne von verschiedenen Größen nimmt, um fein und gewöhnlich spicken zu können, müssen von Kupfer oder Stahl, recht glatt, rund und hoch genug gespalten sein.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-015">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Champignons</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="champignon">Champignons</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText>Von den frischen Champignons zieht man den obern Theil, wie vom Stiele, die Haut ab, nimmt die unter dem Pilze sitzenden Blättchen, Lamellen genannt, weg und spült sie mit kaltem Wasser ab. Dann setzt man dieselben mit etwas Butter auf gelindes Feuer, läßt sie zugedeckt in der eigenen Brühe gahr werden und gibt sie mit dieser Brühe zum Fricassee. — Die getrockneten Champignons muß man eine Stunde im Wasser einweichen, sind es braune und sollen sie zu einer weißen Speise gebraucht werden, muß man sie vorher abkochen, damit das bräunliche Wasser herauszieht. Dann drückt man dieselben aus und gibt sie, wenn das Ragout oder Fricassee ausgeschäumt ist, hinzu.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

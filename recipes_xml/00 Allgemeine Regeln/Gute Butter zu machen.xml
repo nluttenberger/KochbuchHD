@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-059">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Gute Butter zu machen</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Man sorge dafür, das Vieh gesund und die Milchgeschirre recht sauber zu erhalten, bewahre die Milch an einem luftigen Orte auf und lasse sie nicht länger als bis zum dritten Tage stehen, ehe die Sahne abgenommen wird. Das Buttern lasse man im Sommer an einem kühlen Ort geschehen, die Milch gehörig aus der Butter kneten, ehe Wasser dazu kommt, und dann dieselbe so oft mit recht kaltem Brunnenwasser waschen, bis das Wasser, welches abgeschüttet wird, ganz klar ist. Die Butter zum Einmachen muß nicht zu schwach gesalzen, und bis zum nächsten Tage hingestellt werden, wo sie wieder gut durchgeknetet und in einen ganz reinen, am besten in einen steinernen Topf, welcher mit etwas naßgemachtem Salz ausgerieben ist (weil dadurch die Butter nicht am Topfe klebt), fest eingemacht wird. Dann lege man ein leinenes, in starkem Salzwasser naßgemachtes Tuch darauf und stelle ihn in den Keller.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

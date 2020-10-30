@@ -1,0 +1,27 @@
+<fr:igdtList xmlns:fr="http://fruschtique.de/ns/recipe" noshow="noshow" fromRecipe="Sauce zu Blumenkohl" fromRcpID="P-033" fromBook="KochbuchHD" fromChapter="14 Saucen">
+    <fr:igdtListName>Sauce zu Blumenkohl</fr:igdtListName>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="muskat">Muskatnuß</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eidottern</fr:igdtName>
+    </fr:igdtListLine>
+</fr:igdtList>

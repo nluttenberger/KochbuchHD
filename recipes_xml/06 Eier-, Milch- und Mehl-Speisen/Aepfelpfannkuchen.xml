@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-037">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>06 Eier-, Milch- und Mehl-Speisen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aepfelpfannkuchen</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="ei">Ei</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="apfel">Aepfel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="zimt">Zimmet</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Pfannkuchen" fromRcpID="G-036" fromBook="KochbuchHD" fromChapter="06 Eier-, Milch- und Mehl-Speisen">
+            <fr:igdtListName>Pfannkuchen</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>¼ Maß</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Maß</fr:igdtQuantity>
+                <fr:igdtName ref="milch">Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 - 6</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="apfel">Aepfelmus</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="speck">Speck</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man nimmt denselben Teig wie zu [Pfannkuchen](Pfannkuchen.html), jedoch zu jedem Kuchen ein Ei mehr. Dann nimmt man zu jedem Pfannkuchen einen Teller voll recht mürbe gewordener, geschälter und in ganz feine Scheiben geschnittener Aepfel, rührt sie mit etwas Zimmet durch den Teig, gibt ihn in die Pfanne und läßt ihn zugedeckt langsam backen. Ist er auf einer Seite dunkelgelb, wendet man ihn um, backt ihn offen auch auf dieser Seite und gibt ihn stark mit Zucker bestreut sogleich zur Tafel. </fr:instrStepText>
+            <fr:instrStepText>Anmerk. Zucker durch den Teig zu rühren, finde ich nicht gut, weil der Kuchen sich dann leicht ansetzt und brennt. Man gebe ihn dabei herum. Sind die Aepfel nicht mürbe, muß man sie vorher mit etwas Butter in der Pfanne zugedeckt beinahe gahr schwitzen und dann den Teig darüber geben. Aepfelpfannkuchen müssen ja nicht zu dünn gebacken werden, aus der angegebenen Portion etwa 3 Stück. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

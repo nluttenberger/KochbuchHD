@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-019">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Kastanien</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Man setzt sie, nachdem ein Kreuz in die Schale geschnitten ist, mit kaltem Wasser zu Feuer und läßt sie gahr kochen, zieht die Schale so wie die darunter sitzende braune Haut davon ab, und gibt sie beim Anrichten in das Ragout.</fr:instrStepText>
+         <fr:instrStepText>Kastanien zum Kohl werden, wenn sie auf diese Weise gekocht und abgezogen sind, mit Butter und etwas Zucker gelb, doch nicht hart gebraten.</fr:instrStepText>
+         <fr:instrStepText>Kastanien zum Dessert werden, wenn ein Kreuz darin geschnitten worden ist, mit etwas Wasser und Butter fest zugedeckt, zu Feuer gebracht, ½ Stunde gekocht und darauf ½ Stunde gebraten. Während des Bratens muß man sie zuweilen umrühren.</fr:instrStepText>
+         <fr:instrStepText>Zu einer großen tiefen Schüssel voll Kastanien darf man jedoch nicht mehr als eine Obertasse Wasser, nicht weniger, als einen guten Stich Butter nehmen. Beim Anrichten werden die Kastanien in einem groben Tuch abgerieben.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

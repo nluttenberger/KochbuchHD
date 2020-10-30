@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="K-017">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>09 Gelees und Gefrornes</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Allgemeine Regeln</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListLine>
+                <fr:igdtQuantity></fr:igdtQuantity>
+                <fr:igdtName></fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Die Geräthschaften dazu sind: ein Eimer und eine Büchse von Zinn oder Blech, die ganz fest verschlossen werden können; dabei darf das Eis nicht fehlen, welches man so fein zerschlagen muß, daß die Stückchen nicht größer sind wie kleine Haselnüsse. Zuerst schüttet man eine Hand hoch Eis in das Gefäß, ein Paar Hände voll Salz darüber, dann setzt man die mit Crême gefüllte Büchse fest zugemacht hinein, legt an den Seiten rund herum eine Lage Eis, streut eine Hand voll Salz darüber, setzt die Büchse fest, und fährt mit dem Eis- und Salzstreuen so fort. Die Büchse und das Eis muß mit der Höhe des Eimers gleich stehen. Dann streut man noch eine Hand voll Salz darüber. Ohne Salz kann man kein Gefrornes machen, je mehr man nimmt, desto schneller ist man fertig. So läßt man die Büchse ¼ Stunde im Eise stehen, dreht sie am Henkel einige Mal herum, ohne sie zu heben, nimmt den Deckel behutsam ab, rührt mit einem dazu geschnittenen glatten Spaten die Masse durch, macht Alles los, was sich am Boden und an den Seiten angesetzt hat, während man mit der andern Hand die Büchse immer so schnell als möglich im Kreise um den Spaten dreht; doch muß man ja vorsichtig dabei sein, daß kein Eis in die Büchse falle. Ist nun die Masse gut zerrührt, macht man die Büchse wieder fest zu und läßt sie ¼ Stunde ruhig stehen, fängt dann wieder an zu rühren, alles Eisige abzustoßen und mit der Masse zu vereinigen, indem die Büchse immer bewegt werden muß. So fährt man fort, bis die Masse dick, geschmeidig wird, und sich wie dicke Sahne rühren läßt. Wenn sie zu schnell frieren sollte, muß man die Masse mit Gewalt los stoßen und zerrühren, jedoch ohne die Büchse zu heben, und langsamer drehen. Wird das Gefrorne zu früh fertig, schüttet man 1 Maß kaltes Wasser auf das Eis, damit das in der Büchse Befindliche nicht nachfriere und eisig werde, deckt den Eimer mit einem Tuch zu und läßt die Büchse bis zum Anrichten darin stehen. Dann füllt man das Gefrorne in Gläser und gibt es zum Dessert. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

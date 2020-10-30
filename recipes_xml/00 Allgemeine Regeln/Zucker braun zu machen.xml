@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-036">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Zucker braun zu machen</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Zwei Loth Zucker werden in einem kupfernen Casserölchen aufs Feuer gesetzt und beständig gerührt, bis er dunkelbraun ist; dann gießt man schnell ⅛ Maß Wasser dazu, nimmt den Zucker vom Feuer, rührt noch eine Weile und bewahrt denselben in einem zugekorkten Glase zum Färben auf. Mit einem Theelöffel voll färbt man ¼ Maß schön gelb. Man gebraucht diesen Zucker, um braunen Suppen, Ragouts und Saucen eine schöne Farbe zu geben.</fr:instrStepText>
+         <fr:instrStepText>Anmerk. Um sich augenblicklich auszuhelfen, kann man eine abgescheuerte Feuerzange glühend machen, ein Stück Candis dazwischen halten und die herabfallenden Tropfen zum Färben benutzen.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>

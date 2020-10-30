@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="A-005">
+   <fr:meta>
+      <fr:book>KochbuchHD</fr:book>
+      <fr:chapter>00 Allgemeine Regeln</fr:chapter>
+   </fr:meta>
+   <fr:recipeName>Vom Auslösen der Knochen des Geflügels</fr:recipeName>
+   <fr:recipeKeywords/>
+   <fr:recipeIntro/>
+   <fr:recipeIngredients>
+      <fr:igdtList>
+         <fr:igdtListName/>
+         <fr:igdtListLine>
+            <fr:igdtQuantity/>
+            <fr:igdtName ref=""/>
+         </fr:igdtListLine>
+      </fr:igdtList>
+   </fr:recipeIngredients>
+   <fr:recipeInstructions>
+      <fr:instruction>
+         <fr:instrStepName/>
+         <fr:instrStepText>Dies geschieht meist dann, wenn man dasselbe zu einer Geleeschüssel bestimmt hat, bei Puter und Gans in Gelee, gewöhnlich; doch auch bei anderem Geflügel. Wenn das Geflügel nach No. 2 rein gepflückt und gesengt worden ist, macht man mit einem scharfen Messer der Länge nach über den Rücken, dicht an beiden Seiten des Rückgratknochens her, einen Schnitt und trennt nach beiden Seiten bis zur Brust das Fleisch rein vom Knochengerippe ab, wobei man die Haut nicht verletzen darf, und nimmt das Gerippe sammt dem Eingeweide heraus. Auch kann man aus den Flügeln und Beinen die Knochen lösen und solche mit den Sehnen herausziehen; doch geschieht dies weniger. Gewöhnlich wird das entbeinte Geflügel gefüllt; dies muß aber sehr gleichmäßig geschehen, damit dasselbe eine schöne, gewölbte Form erhalte. Darauf wird die Haut zugenäht und nach Angabe eine Geleeschüssel daraus bereitet. Auch kann man es so gefüllt in einer Bräse gahr machen, und mit einer Kraftsauce mit Champignons, Kapern, Trüffeln oder Austern anrichten, auch als Braten geben.</fr:instrStepText>
+      </fr:instruction>
+   </fr:recipeInstructions>
+   <fr:recipeSideDish/>
+   <fr:recipeOrigin/>
+   <fr:recipeSeeAlso/>
+   <fr:recipeLicense/>
+</fr:recipe>
