@@ -1,2 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="B-013">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>01 Suppen</fr:chapter></fr:meta><fr:recipeName>Aalsuppe mit Bouillon</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="fleischbrühe">Rindfleisch-Bouillon</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="knollensellerie">Selleriewurzeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="petersilienwurzel">Petersilienwurzeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="birne">Birnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 - 3 Pfund</fr:igdtQuantity><fr:igdtName ref="aal">Aale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="suppengemüse">Suppenkräuter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>einige</fr:igdtQuantity><fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Fleischklöße</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Schwammklöße</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man kocht Rindfleisch-Bouillon und in derselben Sellerie- und Petersilienwurzeln nebst einem tiefen Teller voll geschälter, in 4 Theile geschnittener guter Birnen weich. Dann nimmt man 2—3 Pfund kleine Aale, zieht die Haut ab, schneidet sie in 3 Finger breite Stücke, wäscht sie rein, und läßt sie in kochendem Wasser und Salz halb gahr kochen, thut sie in die Suppe, nebst feinen Suppenkräutern, einigen Zitronenscheiben, macht dieselbe mit in Butter gelb geröstetem Mehl gebunden und gibt kurz vor dem Anrichten Fleisch- oder Schwammklöße hinein. Die Zeit des Kochens ist, wie bei Rindfleischsuppe. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="B-013">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>01 Suppen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Aalsuppe mit Bouillon</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="fleischbrühe">Rindfleisch-Bouillon</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="knollensellerie">Selleriewurzeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="petersilienwurzel">Petersilienwurzeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="birne">Birnen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 - 3 Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="aal">Aale</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="suppengemüse">Suppenkräuter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Fleischklöße</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Schwammklöße</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Man kocht Rindfleisch-Bouillon und in derselben Sellerie- und Petersilienwurzeln nebst einem tiefen Teller voll geschälter, in 4 Theile geschnittener guter Birnen weich. Dann nimmt man 2—3 Pfund kleine Aale, zieht die Haut ab, schneidet sie in 3 Finger breite Stücke, wäscht sie rein, und läßt sie in kochendem Wasser und Salz halb gahr kochen, thut sie in die Suppe, nebst feinen Suppenkräutern, einigen Zitronenscheiben, macht dieselbe mit in Butter gelb geröstetem Mehl gebunden und gibt kurz vor dem Anrichten Fleisch- oder Schwammklöße hinein. Die Zeit des Kochens ist, wie bei Rindfleischsuppe. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
