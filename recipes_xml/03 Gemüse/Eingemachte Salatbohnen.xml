@@ -13,7 +13,7 @@
             <fr:igdtListName>Bohnen</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="grüne_bohnen">Salatbohnen</fr:igdtName>
+                <fr:igdtName ref="">Salatbohnen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -21,19 +21,19 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+                <fr:igdtName ref="">Petersilie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="essig">Essig</fr:igdtName>
+                <fr:igdtName ref="">Essig</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+                <fr:igdtName ref="">Mehl</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

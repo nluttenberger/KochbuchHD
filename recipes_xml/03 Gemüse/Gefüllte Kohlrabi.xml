@@ -12,66 +12,66 @@
             <fr:igdtListName>Kohlrabi</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="kohlrabi">Kohlrabi</fr:igdtName>
+                <fr:igdtName ref="">Kohlrabi</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName>
+                <fr:igdtName ref="">Fleischbrühe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>etwas</fr:igdtQuantity>
-                <fr:igdtName ref="stärke">Kartoffelmehl</fr:igdtName>
+                <fr:igdtName ref="">Kartoffelmehl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>etwas</fr:igdtQuantity>
-                <fr:igdtName ref="wein">Wein</fr:igdtName>
+                <fr:igdtName ref="">Wein</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskatblüthe</fr:igdtName>
+                <fr:igdtName ref="">Muskatblüthe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="krebsbutter">Krebsbutter</fr:igdtName>
+                <fr:igdtName ref="">Krebsbutter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>einige</fr:igdtQuantity>
-                <fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName>
+                <fr:igdtName ref="">Zitronenscheiben</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>einige</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eidotter</fr:igdtName>
+                <fr:igdtName ref="">Eidotter</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
         <fr:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
             <fr:igdtListName>Kalbfleisch-Farce</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
-                <fr:igdtName ref="kalbfleisch">Kalbfleisch</fr:igdtName>
+                <fr:igdtName ref="">Kalbfleisch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 Loth</fr:igdtQuantity>
-                <fr:igdtName ref="nierenfett">Mark- oder Nierenfett</fr:igdtName>
+                <fr:igdtName ref="">Mark- oder Nierenfett</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
-                <fr:igdtName ref="brot">Weißbrod</fr:igdtName>
+                <fr:igdtName ref="">Weißbrod</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>
