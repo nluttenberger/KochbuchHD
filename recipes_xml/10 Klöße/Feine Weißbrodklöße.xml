@@ -1,2 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-017">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Feine Weißbrodklöße</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Weißbrodklöße</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1 Ei dick</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="muskat">Muskat</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>für 1 Sgr.</fr:igdtQuantity><fr:igdtName ref="brot">Weißbrod</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Zu einem Ei dick geschmolzener Butter rührt man 4 Eidotter, Salz, Muskat, 2 kleine hölzerne Löffel voll Mehl, für 1 Sgr. Weißbrod ohne Krufte, welches in Wasser eingeweicht und ausgedrückt worden ist und zuletzt den Schaum der Eier. Diese Masse läßt man löffelweise auf Obst ½ Stunde, oder in kochendem Wasser mit Salz ¼ Stunde kochen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-017">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Feine Wei&#223;brodkl&#246;&#223;e</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Wei&#223;brodkl&#246;&#223;e</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ei dick</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>f&#252;r 1 Sgr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zu einem Ei dick geschmolzener Butter r&#252;hrt man 4 Eidotter, Salz, Muskat, 2 kleine h&#246;lzerne L&#246;ffel voll Mehl, f&#252;r 1 Sgr. Wei&#223;brod ohne Krufte, welches in Wasser eingeweicht und ausgedr&#252;ckt worden ist und zuletzt den Schaum der Eier. Diese Masse l&#228;&#223;t man l&#246;ffelweise auf Obst &#189; Stunde, oder in kochendem Wasser mit Salz &#188; Stunde kochen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

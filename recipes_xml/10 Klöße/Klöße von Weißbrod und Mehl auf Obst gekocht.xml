@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-32">
-    <fr:meta>
-        <fr:book>KochbuchHD</fr:book>
-        <fr:chapter>10 Klöße</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Klöße von Weißbrod und Mehl auf Obst gekocht</fr:recipeName>
-    <fr:recipeKeywords/>
-    <fr:recipeIntro/>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>3 Loth</fr:igdtQuantity>
-                <fr:igdtName>Hefen</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-    <fr:recipeInstructions>
-        <fr:instruction>
-            <fr:instrStepName>Zubereitung</fr:instrStepName>
-            <fr:instrStepText>Werden ebenso angerührt, nur gibt man 3 Loth Hefen dazu, läßt den Teig eine Stunde aufgehen und schüttet diese Masse dann erst auf das kochende Obst, wenn solches noch 1 Stunde Kochens bedarf. Siehe No. 22. </fr:instrStepText>
-        </fr:instruction>
-    </fr:recipeInstructions>
-</fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-32">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Kl&#246;&#223;e von Wei&#223;brod und Mehl auf Obst gekocht</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Werden ebenso anger&#252;hrt, nur gibt man 3 Loth Hefen dazu, l&#228;&#223;t den Teig eine Stunde aufgehen und sch&#252;ttet diese Masse dann erst auf das kochende Obst, wenn solches noch 1 Stunde Kochens bedarf. Siehe No. 22. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

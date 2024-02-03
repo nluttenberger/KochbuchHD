@@ -1,2 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-023">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Gebackene Klöße zu Obst</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Gebackene Klöße zu Obst</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>2 Pfund</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Maß</fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Obertasse</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 Loth</fr:igdtQuantity><fr:igdtName ref="hefe">Hefe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Zwei Pfund Mehl, ¼ Maß lauwarme Milch, 3 Eier, eine Obertasse voll geschmolzener Butter, 2 Löffel dicke oder 2 Loth trockene Hefe und 2 Eßlöffel Zucker. Die Hälfte des Mehls rührt man mit der Milch, Salz, den Eiern und der Hefe an und läßt es aufgehen; dann rührt man das übrige Mehl, Butter und Zucker hinzu, macht es zu einem Teige, den man stark schlägt und nochmals langsam aufgehen läßt. Darauf formt man dieselben zu kleinen Bällen, welches am leichtesten auf folgende Weise geschieht: Der Teig wird dick ausgerollt und mit einem engen Wasserglase werden Klöße daraus abgestochen. Diese läßt man alsdann zum dritten Male aufgehen und kocht sie in Schmelzbutter No. 24 etwa 10 Minuten. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-023">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Gebackene Kl&#246;&#223;e zu Obst</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Gebackene Kl&#246;&#223;e zu Obst</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Obertasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zwei Pfund Mehl, &#188; Ma&#223; lauwarme Milch, 3 Eier, eine Obertasse voll geschmolzener Butter, 2 L&#246;ffel dicke oder 2 Loth trockene Hefe und 2 E&#223;l&#246;ffel Zucker. Die H&#228;lfte des Mehls r&#252;hrt man mit der Milch, Salz, den Eiern und der Hefe an und l&#228;&#223;t es aufgehen; dann r&#252;hrt man das &#252;brige Mehl, Butter und Zucker hinzu, macht es zu einem Teige, den man stark schl&#228;gt und nochmals langsam aufgehen l&#228;&#223;t. Darauf formt man dieselben zu kleinen B&#228;llen, welches am leichtesten auf folgende Weise geschieht: Der Teig wird dick ausgerollt und mit einem engen Wasserglase werden Kl&#246;&#223;e daraus abgestochen. Diese l&#228;&#223;t man alsdann zum dritten Male aufgehen und kocht sie in Schmelzbutter No. 24 etwa 10 Minuten. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

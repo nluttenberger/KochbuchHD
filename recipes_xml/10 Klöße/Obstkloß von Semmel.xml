@@ -1,2 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-022">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Obstkloß von Semmel</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Semmelkloß</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>für 4 Pfennige</fr:igdtQuantity><fr:igdtName ref="brot">Weißbrod</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="ei">Ei</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Loth</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="speck">Speck</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="muskat">Muskatblüthe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="sultaninen">Rosinen</fr:igdtName></fr:igdtListLine></fr:igdtList><fr:igdtList><fr:igdtListName>Obst</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="birne">Birnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="backobst">Backobst</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man rechnet auf jede Person für 4 Pfennige Weißbrod, 1 Ei und 1 Loth Butter. Die Krusten des Brodes werden fein gewürfelt und mit anderer Butter oder in Speck gelb gebraten, das Weißbrod gerieben, durch ein Sieb gerührt und das Zurückgebliebene in Milch geweicht. Dann wird die Butter mit den Eidottern gut gerührt, Muskatblüthe, Salz, das Weißbrod hinzugegeben und zuletzt der steife Schnee darunter gemischt. Man kann auch Rosinen hinzufügen. Diese Masse wird als Kloß auf frische Birnen oder Backobst eine Stunde vor dem Anrichten auf’s Feuer gebracht und muß fest zugedeckt diese Zeit langsam, aber fortwährend kochen. Das Obst muß mit ziemlich vielem Wasser, etwas Butter und Zucker schon eine gute Weile gekocht haben, ehe der Kloß darauf gegeben wird, nur sehe man zu, daß die Brühe nicht über dem Obste steht, weil sonst der Kloß nicht so locker werden würde. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-022">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Obstklo&#223; von Semmel</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Semmelklo&#223;</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>f&#252;r 4 Pfennige</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="holunder">Muskatbl&#252;the</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sultaninen">Rosinen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList>
+      <ns0:igdtListName>Obst</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="birne">Birnen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="backobst">Backobst</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man rechnet auf jede Person f&#252;r 4 Pfennige Wei&#223;brod, 1 Ei und 1 Loth Butter. Die Krusten des Brodes werden fein gew&#252;rfelt und mit anderer Butter oder in Speck gelb gebraten, das Wei&#223;brod gerieben, durch ein Sieb ger&#252;hrt und das Zur&#252;ckgebliebene in Milch geweicht. Dann wird die Butter mit den Eidottern gut ger&#252;hrt, Muskatbl&#252;the, Salz, das Wei&#223;brod hinzugegeben und zuletzt der steife Schnee darunter gemischt. Man kann auch Rosinen hinzuf&#252;gen. Diese Masse wird als Klo&#223; auf frische Birnen oder Backobst eine Stunde vor dem Anrichten auf&#8217;s Feuer gebracht und mu&#223; fest zugedeckt diese Zeit langsam, aber fortw&#228;hrend kochen. Das Obst mu&#223; mit ziemlich vielem Wasser, etwas Butter und Zucker schon eine gute Weile gekocht haben, ehe der Klo&#223; darauf gegeben wird, nur sehe man zu, da&#223; die Br&#252;he nicht &#252;ber dem Obste steht, weil sonst der Klo&#223; nicht so locker werden w&#252;rde. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

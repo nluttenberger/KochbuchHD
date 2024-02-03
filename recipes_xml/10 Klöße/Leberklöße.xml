@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="L-30">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Leberklöße</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Klöße</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Kalbsleber</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Ei</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Speck</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Muskat</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="">Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Weißbrod</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Zwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Schwarzbrod</fr:igdtName></fr:igdtListLine></fr:igdtList><fr:igdtList><fr:igdtListName>Sauce</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Wasser</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Kartoffelmehl</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Zu einer Kalbsleber von mittlerer Größe, die man abgehäutet, geklopft und durch ein Sieb gerührt hat, gibt man ein Ei dick fein gehackten Speck, 4 ganze Eier mit ½ Tasse Wasser, Salz, Muskat und etwas Pfeffer unter einander geklopft, für ¼ Sgr. gewürfeltes, in Butter geröstetes Weißbrod ( auch nach Belieben fein gehackte Zwiebeln), und so viel Mehl, als zum Zusammenhalten der Klöße nöthig ist. Um dies zu erproben, gibt man einen kleinen Kloß in’s kochende Wasser; er muß an einander halten, aber ganz locker sein. Dann gibt man mit einem hölzernen Löffel die Masse in kochendes, gesalzenes Wasser, nur muß man den Löffel jedes Mal darin heiß machen, damit sich die Klöße, die eine Hand dick groß sein müssen, leicht ablösen. Man läßt sie stark zehn Minuten kochen und richtet sie auf einer heiß gemachten Schüssel mit geriebenem, in Butter geröstetem Schwarzbrod an. Zur Sauce kocht man Butter, etwas Wasser und Salz, und macht sie mit einem Theelöffel voll Kartoffelmehl sämig. </fr:instrStepText><fr:instrStepText>Sie werden sowohl allein, als auch zu Sauerkraut gegessen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="L-30">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Leberkl&#246;&#223;e</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Kl&#246;&#223;e</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="leber">Kalbsleber</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zwiebel">Zwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schwarzbrot">Schwarzbrod</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList>
+      <ns0:igdtListName>Sauce</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="st&#228;rke">Kartoffelmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zu einer Kalbsleber von mittlerer Gr&#246;&#223;e, die man abgeh&#228;utet, geklopft und durch ein Sieb ger&#252;hrt hat, gibt man ein Ei dick fein gehackten Speck, 4 ganze Eier mit &#189; Tasse Wasser, Salz, Muskat und etwas Pfeffer unter einander geklopft, f&#252;r &#188; Sgr. gew&#252;rfeltes, in Butter ger&#246;stetes Wei&#223;brod ( auch nach Belieben fein gehackte Zwiebeln), und so viel Mehl, als zum Zusammenhalten der Kl&#246;&#223;e n&#246;thig ist. Um dies zu erproben, gibt man einen kleinen Klo&#223; in&#8217;s kochende Wasser; er mu&#223; an einander halten, aber ganz locker sein. Dann gibt man mit einem h&#246;lzernen L&#246;ffel die Masse in kochendes, gesalzenes Wasser, nur mu&#223; man den L&#246;ffel jedes Mal darin hei&#223; machen, damit sich die Kl&#246;&#223;e, die eine Hand dick gro&#223; sein m&#252;ssen, leicht abl&#246;sen. Man l&#228;&#223;t sie stark zehn Minuten kochen und richtet sie auf einer hei&#223; gemachten Sch&#252;ssel mit geriebenem, in Butter ger&#246;stetem Schwarzbrod an. Zur Sauce kocht man Butter, etwas Wasser und Salz, und macht sie mit einem Theel&#246;ffel voll Kartoffelmehl s&#228;mig. </ns0:instrStepText>
+      <ns0:instrStepText>Sie werden sowohl allein, als auch zu Sauerkraut gegessen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

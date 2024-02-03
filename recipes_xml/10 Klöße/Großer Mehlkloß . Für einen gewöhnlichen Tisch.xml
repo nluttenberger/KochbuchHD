@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="L-36">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Großer Mehlkloß . Für einen gewöhnlichen Tisch</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName ref="">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Tasse</fr:igdtQuantity><fr:igdtName ref="">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Loth</fr:igdtQuantity><fr:igdtName ref="">Hefen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Stich</fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Schmalz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Mehls</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man rechne auf 3—4 Personen 1 Pfund gutes Mehl, vier Eier, reichlich eine Tasse recht warmer Milch, 1 Loth Hefen, einen Stich Butter oder Schmalz, einen gehäuften Theelöffel voll Zucker und etwas Salz . </fr:instrStepText><fr:instrStepText>In der Mitte des Mehls wird eine Vertiefung gemacht, die heiße Milch hineingerührt und nachdem das Uebrige mit dem Mehl zu einem Teig gemacht, den man mit den Händen stark verarbeitet und dann an einen warmen, zugfreien Ort zum Aufgehen hingestellt. Nachdem der Teig gut aufgegangen, arbeitet man ihn nochmals leicht durch, bindet ihn in eine ausgeschmierte und mit Mehl bestaubte Serviette, indem man ein wenig Raum zum Aufgehen läßt, legt den Kloß zum Aufgehen noch eine Weile hin und kocht ihn dann mit kochendem Wasser und Salz 2 Stunden, und gibt geschmolzene Butter und Obst dazu. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="L-36">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Gro&#223;er Mehlklo&#223; . F&#252;r einen gew&#246;hnlichen Tisch</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Stich</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehls</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man rechne auf 3&#8212;4 Personen 1 Pfund gutes Mehl, vier Eier, reichlich eine Tasse recht warmer Milch, 1 Loth Hefen, einen Stich Butter oder Schmalz, einen geh&#228;uften Theel&#246;ffel voll Zucker und etwas Salz . </ns0:instrStepText>
+      <ns0:instrStepText>In der Mitte des Mehls wird eine Vertiefung gemacht, die hei&#223;e Milch hineinger&#252;hrt und nachdem das Uebrige mit dem Mehl zu einem Teig gemacht, den man mit den H&#228;nden stark verarbeitet und dann an einen warmen, zugfreien Ort zum Aufgehen hingestellt. Nachdem der Teig gut aufgegangen, arbeitet man ihn nochmals leicht durch, bindet ihn in eine ausgeschmierte und mit Mehl bestaubte Serviette, indem man ein wenig Raum zum Aufgehen l&#228;&#223;t, legt den Klo&#223; zum Aufgehen noch eine Weile hin und kocht ihn dann mit kochendem Wasser und Salz 2 Stunden, und gibt geschmolzene Butter und Obst dazu. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

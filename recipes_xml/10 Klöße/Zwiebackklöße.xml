@@ -1,2 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-008">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>10 Klöße</fr:chapter></fr:meta><fr:recipeName>Zwiebackklöße</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Zwiebackklöße</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>½ Ei dick</fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Muskatnuß</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6</fr:igdtQuantity><fr:igdtName ref="">Kaffeebrödchen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Bouillon</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man rührt ½ Ei dick Butter zu Sahne, dazu 2 ganze Eier und Muskatnuß, gibt dann nach und nach unter fortwährendem Rühren 6 fein gestoßene Kaffeebrödchen, gleich 4 gehäufter Eßlöffel voll Zwieback, hinzu, von denen man ½ Eßlöffel voll zurückläßt, welches man, da die Masse sehr weich sein muß, zum Aufrollen benutzt. Die Klöße werden alle zugleich in die kochende Bouillon gegeben, ein Mal aufgekocht und dann wird der Topf schnell vom Feuer genommen und zugedeckt, weil sie sonst fest werden. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-008">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Zwiebackkl&#246;&#223;e</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Zwiebackkl&#246;&#223;e</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Ei dick</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskatnu&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="kaffee">Kaffeebr&#246;dchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fleischbr&#252;he">Bouillon</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man r&#252;hrt &#189; Ei dick Butter zu Sahne, dazu 2 ganze Eier und Muskatnu&#223;, gibt dann nach und nach unter fortw&#228;hrendem R&#252;hren 6 fein gesto&#223;ene Kaffeebr&#246;dchen, gleich 4 geh&#228;ufter E&#223;l&#246;ffel voll Zwieback, hinzu, von denen man &#189; E&#223;l&#246;ffel voll zur&#252;ckl&#228;&#223;t, welches man, da die Masse sehr weich sein mu&#223;, zum Aufrollen benutzt. Die Kl&#246;&#223;e werden alle zugleich in die kochende Bouillon gegeben, ein Mal aufgekocht und dann wird der Topf schnell vom Feuer genommen und zugedeckt, weil sie sonst fest werden. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

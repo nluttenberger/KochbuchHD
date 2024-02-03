@@ -1,60 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-035">
-    <fr:meta>
-        <fr:book>KochbuchHD</fr:book>
-        <fr:chapter>10 Klöße</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Dampfnudeln, die im Ofen gebacken werden</fr:recipeName>
-    <fr:recipeKeywords/>
-    <fr:recipeIntro/>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListName>Dampfnudeln</fr:igdtListName>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>⅛ Maß</fr:igdtQuantity>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>¼ Pfund</fr:igdtQuantity>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="hefe">Hefe</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1 Pfund</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-        <fr:igdtList>
-            <fr:igdtListName>Guß</fr:igdtListName>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>¼ Maß</fr:igdtQuantity>
-                <fr:igdtName ref="">Milch</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Zucker</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-    <fr:recipeInstructions>
-        <fr:instruction>
-            <fr:instrStepName>Zubereitung</fr:instrStepName>
-            <fr:instrStepText>Man zerrührt in einem Topfe ⅛ Maß lauwarmer Milch, ¼ Pfund geschmolzener Butter, 1 Eßlöffel voll Zucker, vier Eidotter und 2 Eßlöffel voll guter dicker Hefe unter einander, gießt dies auf 1 Pfund Mehl in ein Geschirr, macht einen Teig daraus, den man gut durcharbeitet und 2 Finger dick ausrollt. Dann sticht man mit einem Weinglase Klöße daraus, die man in einer ausgeschmierten Pfanne oder Schüssel neben einander setzt, dach so, daß sie Raum zum Aufgehen behalten, läßt sie in gleichmäßiger Wärme aufgehen und im heißen Ofen backen. Wenn sie gahr und gelbbraun sind, gießt man ¼ Maß kochende Milch mit Zucker darüber, welche einzieht, läßt sie noch einige Minuten im Ofen stehen und richtet sie recht heiß mit brauner Butter an. </fr:instrStepText>
-        </fr:instruction>
-    </fr:recipeInstructions>
-    <fr:recipeSideDish/>
-    <fr:recipeOrigin/>
-    <fr:recipeSeeAlso/>
-    <fr:recipeLicense/>
-</fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="L-035">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Dampfnudeln, die im Ofen gebacken werden</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Dampfnudeln</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList>
+      <ns0:igdtListName>Gu&#223;</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man zerr&#252;hrt in einem Topfe &#8539; Ma&#223; lauwarmer Milch, &#188; Pfund geschmolzener Butter, 1 E&#223;l&#246;ffel voll Zucker, vier Eidotter und 2 E&#223;l&#246;ffel voll guter dicker Hefe unter einander, gie&#223;t dies auf 1 Pfund Mehl in ein Geschirr, macht einen Teig daraus, den man gut durcharbeitet und 2 Finger dick ausrollt. Dann sticht man mit einem Weinglase Kl&#246;&#223;e daraus, die man in einer ausgeschmierten Pfanne oder Sch&#252;ssel neben einander setzt, dach so, da&#223; sie Raum zum Aufgehen behalten, l&#228;&#223;t sie in gleichm&#228;&#223;iger W&#228;rme aufgehen und im hei&#223;en Ofen backen. Wenn sie gahr und gelbbraun sind, gie&#223;t man &#188; Ma&#223; kochende Milch mit Zucker dar&#252;ber, welche einzieht, l&#228;&#223;t sie noch einige Minuten im Ofen stehen und richtet sie recht hei&#223; mit brauner Butter an. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>
