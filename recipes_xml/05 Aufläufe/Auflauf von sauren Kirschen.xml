@@ -1,2 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-017">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Auflauf von sauren Kirschen</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>¾ Pfund</fr:igdtQuantity><fr:igdtName ref="brot">Weißbrod</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Ei dick (4 Loth)</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="sahne">Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>9</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="mandel">Mandeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>einige</fr:igdtQuantity><fr:igdtName ref="zitrone">Zitronenschale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName ref="sauerkirschen">Sauerkirschen</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Drei Viertel Pfund Weißbrod ohne Kruste wird in Milch geweicht und über Feuer abgerührt. Dann rührt man 1 Ei dick Butter (4 Loth) zu Sahne, gibt hinzu: 9 Eidotter, etwas gestoßene Mandeln, auch einige bittere, Zitronenschale, 2—3 Löffel Zucker, das Weißbrod, den Eierschaum, 1 Pfund saure, ausgesteinte Kirschen, die man mit Zucker vermischt hat, und läßt dieses eine Stunde backen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-017">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Auflauf von sauren Kirschen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#190; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ei dick (4 Loth)</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>9</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="sauerkirschen">Sauerkirschen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Drei Viertel Pfund Wei&#223;brod ohne Kruste wird in Milch geweicht und &#252;ber Feuer abger&#252;hrt. Dann r&#252;hrt man 1 Ei dick Butter (4 Loth) zu Sahne, gibt hinzu: 9 Eidotter, etwas gesto&#223;ene Mandeln, auch einige bittere, Zitronenschale, 2&#8212;3 L&#246;ffel Zucker, das Wei&#223;brod, den Eierschaum, 1 Pfund saure, ausgesteinte Kirschen, die man mit Zucker vermischt hat, und l&#228;&#223;t dieses eine Stunde backen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

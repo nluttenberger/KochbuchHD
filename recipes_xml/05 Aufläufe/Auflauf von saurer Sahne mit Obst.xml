@@ -1,2 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-015">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Auflauf von saurer Sahne mit Obst</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Auflauf von saurer Sahne mit Obst</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="stärke">Stärke</fr:igdtName></fr:igdtListLine></fr:igdtList><fr:igdtList noshow="noshow" fromRecipe="Auflauf von saurer Sahne" fromRcpID="F-014" fromBook="KochbuchHD" fromChapter="05 Aufläufe"><fr:igdtListName>Auflauf von saurer Sahne</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>1 Maß</fr:igdtQuantity><fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>8</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 EL</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zimt">Zimmet</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="vanille">Vanille</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="zitrone">Zitronenschale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Messerspitze</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>[Obige Masse](Auflauf von saurer Sahne.html), jedoch statt der 4 Eßlöffel Mehl nur einen Eßlöffel Stärke genommen, über feines Obst geschüttet und gebacken, gibt einen sehr feinen und wohlschmeckenden Auflauf. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-015">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Auflauf von saurer Sahne mit Obst</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Auflauf von saurer Sahne mit Obst</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">St&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="Auflauf von saurer Sahne" fromRcpID="F-014" fromBook="KochbuchHD" fromChapter="05 Aufl&#228;ufe">
+      <ns0:igdtListName>Auflauf von saurer Sahne</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="vanille">Vanille</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Messerspitze</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>[Obige Masse](Auflauf von saurer Sahne.html), jedoch statt der 4 E&#223;l&#246;ffel Mehl nur einen E&#223;l&#246;ffel St&#228;rke genommen, &#252;ber feines Obst gesch&#252;ttet und gebacken, gibt einen sehr feinen und wohlschmeckenden Auflauf. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

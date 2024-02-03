@@ -1,2 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-005">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Chocoladen-Auflauf</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>4 Loth</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>5 - 6</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6 Loth</fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 Loth</fr:igdtQuantity><fr:igdtName ref="schokolade">Chocolade</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="vanille">Vanille</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>12 Loth</fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="brot">Weißbrod</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Vier Loth Butter werden weich gerieben, mit 5—6 Eidottern, 6 Loth Zucker, 4 Loth geriebener Chocolade, etwas Vanille und 12 Loth in Milch geweichtem und ausgedrücktem Weißbrod gerührt, der Schaum der Eier durchgemischt und ¾ Stunde gebacken. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-005">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Chocoladen-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 - 6</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="cola">Chocolade</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="vanille">Vanille</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Vier Loth Butter werden weich gerieben, mit 5&#8212;6 Eidottern, 6 Loth Zucker, 4 Loth geriebener Chocolade, etwas Vanille und 12 Loth in Milch geweichtem und ausgedr&#252;cktem Wei&#223;brod ger&#252;hrt, der Schaum der Eier durchgemischt und &#190; Stunde gebacken. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

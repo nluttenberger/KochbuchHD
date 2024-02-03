@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-10"><fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Kartoffel-Auflauf</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName>Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Pfund</fr:igdtQuantity><fr:igdtName>Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>8</fr:igdtQuantity><fr:igdtName>Eidotter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Loth</fr:igdtQuantity><fr:igdtName>Mandeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>8</fr:igdtQuantity><fr:igdtName>Zitronenschale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Zimmet</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName>Kartoffeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6 Loth</fr:igdtQuantity><fr:igdtName>Weißbrod</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Eier</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Ein Viertel Pfund zu Sahne geriebene Butter, ¼ Pfund Zucker, 8 Eidotter, 1 Loth gestoßene Mandeln, worunter acht Stück bittere sind, auch nach Belieben Zitronenschale oder Zimmet, werden eine Weile gerührt, dann 1 Pfund mit der Schale halb gahr gekochte und geriebene Kartoffeln, welche am vorhergehenden Tage gekocht worden sind, 6 Loth geriebenes Weißbrod durchgerührt, so wie auch nachher der feste Schaum der Eier . Man läßt den Auflauf eine Stunde backen. </fr:instrStepText></fr:instruction></fr:recipeInstructions></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-10">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Kartoffel-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eidotter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brod</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Ein Viertel Pfund zu Sahne geriebene Butter, &#188; Pfund Zucker, 8 Eidotter, 1 Loth gesto&#223;ene Mandeln, worunter acht St&#252;ck bittere sind, auch nach Belieben Zitronenschale oder Zimmet, werden eine Weile ger&#252;hrt, dann 1 Pfund mit der Schale halb gahr gekochte und geriebene Kartoffeln, welche am vorhergehenden Tage gekocht worden sind, 6 Loth geriebenes Wei&#223;brod durchger&#252;hrt, so wie auch nachher der feste Schaum der Eier . Man l&#228;&#223;t den Auflauf eine Stunde backen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-8"><fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Herzogs-Auflauf</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListLine><fr:igdtQuantity>8</fr:igdtQuantity><fr:igdtName>Eidottern</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Maß</fr:igdtQuantity><fr:igdtName>Sahne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Pfund</fr:igdtQuantity><fr:igdtName>Mehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6 Loth</fr:igdtQuantity><fr:igdtName>Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6 Loth</fr:igdtQuantity><fr:igdtName>Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName>Zitronenschale</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName>Hefen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Eier</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man rührt zu 8 Eidottern abwechselnd, ¼ Maß lauwarm gemachte süße Sahne und ¼ Pfund feines Mehl, 6 Loth Zucker, 6 Loth geschmolzene Butter, etwas abgeriebene Zitronenschale, 2 Loth oder 2 Löffel Hefen und zuletzt den festen Schaum der Eier . Dies läßt man in einer gut ausgeschmierten Auflaufform gehörig, nicht zu schnell, aufgehen und ¾ Stunde backen. </fr:instrStepText></fr:instruction></fr:recipeInstructions></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-8">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Herzogs-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eidottern</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man r&#252;hrt zu 8 Eidottern abwechselnd, &#188; Ma&#223; lauwarm gemachte s&#252;&#223;e Sahne und &#188; Pfund feines Mehl, 6 Loth Zucker, 6 Loth geschmolzene Butter, etwas abgeriebene Zitronenschale, 2 Loth oder 2 L&#246;ffel Hefen und zuletzt den festen Schaum der Eier . Dies l&#228;&#223;t man in einer gut ausgeschmierten Auflaufform geh&#246;rig, nicht zu schnell, aufgehen und &#190; Stunde backen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

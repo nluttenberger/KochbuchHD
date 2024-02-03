@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-34"><fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Italienischer Reis-Auflauf zu Geflügel und Fisch-Ragout. Eine Schüssel nach der Suppe</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListLine><fr:igdtQuantity>3 Pfund</fr:igdtQuantity><fr:igdtName>Reis</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Abbrühen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Bouillon</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ Pfund</fr:igdtQuantity><fr:igdtName>Schinken</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Pfund</fr:igdtQuantity><fr:igdtName>Parmesankäse</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Drei Viertel Pfund Reis wird nach dem Abbrühen mit guter Bouillon, dem gehörigen Salz und Butter gahr und dick gekocht, jedoch müssen die Körner ganz bleiben. Alsdann gibt man den Reis mit ½ Pfund gekochten und fein gehacktem Schinken und ¼ Pfund Parmesankäse abwechselnd lagenweise in eine Auflaufsform und backt dies Gericht langsam 1—1¼ Stunden. </fr:instrStepText></fr:instruction></fr:recipeInstructions></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-34">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Italienischer Reis-Auflauf zu Gefl&#252;gel und Fisch-Ragout. Eine Sch&#252;ssel nach der Suppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Abbr&#252;hen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fleischbr&#252;he">Bouillon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesank&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Drei Viertel Pfund Reis wird nach dem Abbr&#252;hen mit guter Bouillon, dem geh&#246;rigen Salz und Butter gahr und dick gekocht, jedoch m&#252;ssen die K&#246;rner ganz bleiben. Alsdann gibt man den Reis mit &#189; Pfund gekochten und fein gehacktem Schinken und &#188; Pfund Parmesank&#228;se abwechselnd lagenweise in eine Auflaufsform und backt dies Gericht langsam 1&#8212;1&#188; Stunden. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

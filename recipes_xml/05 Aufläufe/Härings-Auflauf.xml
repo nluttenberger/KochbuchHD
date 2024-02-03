@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-29"><fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Härings-Auflauf</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListLine><fr:igdtQuantity>9</fr:igdtQuantity><fr:igdtName>Mandeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Gewürze</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Muskatnuß</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Fleisch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Häringen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName>Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName>Zwiebeln</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man richte sich nach dem Kartoffel-Auflauf Nro. 9, lasse natürlich Mandeln, Zucker, und die darin bemerkten Gewürze weg und rühre reichlich Muskatnuß und das in feine Würfel geschnittene Fleisch von 2—3 gut gewässerten und ausgegräteten Häringen nebst einer Untertasse voll in Butter braun gebratenen Zwiebeln durch. </fr:instrStepText></fr:instruction></fr:recipeInstructions></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-29">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>H&#228;rings-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>9</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskatnu&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fleisch">Fleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="hering">H&#228;ringen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zwiebel">Zwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man richte sich nach dem Kartoffel-Auflauf Nro. 9, lasse nat&#252;rlich Mandeln, Zucker, und die darin bemerkten Gew&#252;rze weg und r&#252;hre reichlich Muskatnu&#223; und das in feine W&#252;rfel geschnittene Fleisch von 2&#8212;3 gut gew&#228;sserten und ausgegr&#228;teten H&#228;ringen nebst einer Untertasse voll in Butter braun gebratenen Zwiebeln durch. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>
