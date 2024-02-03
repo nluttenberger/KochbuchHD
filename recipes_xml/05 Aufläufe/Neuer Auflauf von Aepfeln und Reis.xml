@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="F-23">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Neuer Auflauf von Aepfeln und Reis</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>¾ Pfund</fr:igdtQuantity><fr:igdtName ref="">Reis</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Eiern</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Aepfel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Wein</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Zitronensaft</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Brühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Apfelsine</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Zwieback</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Man kocht nach der Größe der Form ½ — ¾ Pfund abgebrühten Reis mit Milch und einem Stück frischer Butter gahr, aber nicht zu weich, rührt den nöthigen Zucker, sowie das von 4—6 Eiern zu steifem Schaum geschlagene Weiße durch. Zugleich kocht man 12—14 Borsdorfer Aepfel, welche geschält und halb durchgeschnitten sind, in Wasser und Wein, Zucker, Zitronensaft und Schale gahr, doch müssen sie ganz bleiben, nimmt sie aus der Brühe, gibt zu derselben noch so viel Zucker, daß sie geleeartig wird und drückt den Saft einer Apfelsine dazu. Nun legt man in eine gut zugerichtete Form eine Lage Reis, eine Lage Aepfel, und bedeckt diese wieder mit Reis . Die Aepfel dürfen die Seiten der Form nicht berühren und auch nicht aus dem Reis hervor stehen. Dann streut man gestoßenen Zwieback darüber und legt kleine Stückchen Butter darauf, läßt den Auflauf etwa ¾ Stunden backen, oder so lange, bis er eine schöne gelbe Farbe bekommen hat, stürzt ihn dann auf eine Schüssel, gibt ein wenig von der geleeartigen Sauce darüber und die übrige dabei herum. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="F-23">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Neuer Auflauf von Aepfeln und Reis</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#190; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Eiern</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="wein">Wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Apfelsine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zwieback">Zwieback</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man kocht nach der Gr&#246;&#223;e der Form &#189; &#8212; &#190; Pfund abgebr&#252;hten Reis mit Milch und einem St&#252;ck frischer Butter gahr, aber nicht zu weich, r&#252;hrt den n&#246;thigen Zucker, sowie das von 4&#8212;6 Eiern zu steifem Schaum geschlagene Wei&#223;e durch. Zugleich kocht man 12&#8212;14 Borsdorfer Aepfel, welche gesch&#228;lt und halb durchgeschnitten sind, in Wasser und Wein, Zucker, Zitronensaft und Schale gahr, doch m&#252;ssen sie ganz bleiben, nimmt sie aus der Br&#252;he, gibt zu derselben noch so viel Zucker, da&#223; sie geleeartig wird und dr&#252;ckt den Saft einer Apfelsine dazu. Nun legt man in eine gut zugerichtete Form eine Lage Reis, eine Lage Aepfel, und bedeckt diese wieder mit Reis . Die Aepfel d&#252;rfen die Seiten der Form nicht ber&#252;hren und auch nicht aus dem Reis hervor stehen. Dann streut man gesto&#223;enen Zwieback dar&#252;ber und legt kleine St&#252;ckchen Butter darauf, l&#228;&#223;t den Auflauf etwa &#190; Stunden backen, oder so lange, bis er eine sch&#246;ne gelbe Farbe bekommen hat, st&#252;rzt ihn dann auf eine Sch&#252;ssel, gibt ein wenig von der geleeartigen Sauce dar&#252;ber und die &#252;brige dabei herum. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

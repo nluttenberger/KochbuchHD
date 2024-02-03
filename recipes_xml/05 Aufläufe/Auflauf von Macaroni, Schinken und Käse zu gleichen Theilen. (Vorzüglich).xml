@@ -1,2 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-028">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Auflauf von Macaroni, Schinken und Käse zu gleichen Theilen. (Vorzüglich)</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>½ Pfund</fr:igdtQuantity><fr:igdtName ref="nudeln">Macaroni</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ Pfund</fr:igdtQuantity><fr:igdtName ref="schinken">Schinken</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ Pfund</fr:igdtQuantity><fr:igdtName ref="parmesan">Parmesan-Käse</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="brühe">Fleischbrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>einige</fr:igdtQuantity><fr:igdtName ref="schalotten">Charlotten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="parmesan">Parmesan</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Ein halbes Pfund Macaroni, ½ Pfund fein gehackter Schinken, ½ Pfund Parmesan-Käse. Die Macaroni werden in Wasser, besser noch in Fleischbrühe gahr gekocht. Nachdem sie kalt geworden und in Zoll lange Stückchen geschnitten sind, schmort man einige fein gehackte Charlotten in etwas Butter, thut dann den Schinken, darnach die Macaroni, den Parmesan und saure Sahne dazu und backt dies wie oben. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-028">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Auflauf von Macaroni, Schinken und K&#228;se zu gleichen Theilen. (Vorz&#252;glich)</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Macaroni</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan-K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Charlotten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="parmesan">Parmesan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Ein halbes Pfund Macaroni, &#189; Pfund fein gehackter Schinken, &#189; Pfund Parmesan-K&#228;se. Die Macaroni werden in Wasser, besser noch in Fleischbr&#252;he gahr gekocht. Nachdem sie kalt geworden und in Zoll lange St&#252;ckchen geschnitten sind, schmort man einige fein gehackte Charlotten in etwas Butter, thut dann den Schinken, darnach die Macaroni, den Parmesan und saure Sahne dazu und backt dies wie oben. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="F-22">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Leipziger Punsch-Auflauf</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>12</fr:igdtQuantity><fr:igdtName ref="">Eidotter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>12 Loth</fr:igdtQuantity><fr:igdtName ref="">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="">Zitrone</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Glas</fr:igdtQuantity><fr:igdtName ref="">Rum</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Eier</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Zwölf Eidotter werden mit 12 Loth geriebenem und durchgesiebten Zucker gerührt, dann der Saft einer Zitrone, auch nach Belieben die abgeriebene Schale derselben mit einem Glase Rum hinzu gerührt und darauf der feste Schaum dieser Eier durchgemischt. Dies in einem stark geheizten Ofen zehn Minuten gebacken und sogleich zur Tafel gegeben. </fr:instrStepText><fr:instrStepText>Dieser Auflauf muß oben und an allen Seiten gebacken werden, in der Mitte aber noch weich — einer Schaumsauce ähnlich sein. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="F-22">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Leipziger Punsch-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eidotter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="rum">Rum</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zw&#246;lf Eidotter werden mit 12 Loth geriebenem und durchgesiebten Zucker ger&#252;hrt, dann der Saft einer Zitrone, auch nach Belieben die abgeriebene Schale derselben mit einem Glase Rum hinzu ger&#252;hrt und darauf der feste Schaum dieser Eier durchgemischt. Dies in einem stark geheizten Ofen zehn Minuten gebacken und sogleich zur Tafel gegeben. </ns0:instrStepText>
+      <ns0:instrStepText>Dieser Auflauf mu&#223; oben und an allen Seiten gebacken werden, in der Mitte aber noch weich &#8212; einer Schaumsauce &#228;hnlich sein. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

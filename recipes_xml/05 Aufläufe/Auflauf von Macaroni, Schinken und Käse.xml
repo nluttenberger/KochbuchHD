@@ -1,2 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-027">
-<fr:meta><fr:book>KochbuchHD</fr:book><fr:chapter>05 Aufläufe</fr:chapter></fr:meta><fr:recipeName>Auflauf von Macaroni, Schinken und Käse</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>½ Pfund</fr:igdtQuantity><fr:igdtName ref="nudeln">Macaroni</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName ref="schinken">Schinken</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Pfund</fr:igdtQuantity><fr:igdtName ref="muskat">Muskatnuß</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 Loth</fr:igdtQuantity><fr:igdtName ref="käse">geriebener Käse</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ Maß</fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 Loth</fr:igdtQuantity><fr:igdtName ref="butter">Butter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Ein halbes Pfund Macaroni wird in reichlichem Wasser mit etwas Salz weich, aber nicht breiig gekocht, abgegossen, in einen Zoll lange Stücke geschnitten, mit gekochtem und gehacktem Schinken (man rechnet auf diese Portion 1 Pfund), Muskatnuß und 4 Loth geriebenem Käse lagenweise in die Form gelegt und mit Folgendem übergossen: ¼ Maß Milch, 4 Loth geschmolzener Butter, 4 Eier gut geklopft. Man läßt diesen Auflauf bei starker Hitze eine Stunde backen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="F-027">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>05 Aufl&#228;ufe</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Auflauf von Macaroni, Schinken und K&#228;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Macaroni</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnu&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">geriebener K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Ein halbes Pfund Macaroni wird in reichlichem Wasser mit etwas Salz weich, aber nicht breiig gekocht, abgegossen, in einen Zoll lange St&#252;cke geschnitten, mit gekochtem und gehacktem Schinken (man rechnet auf diese Portion 1 Pfund), Muskatnu&#223; und 4 Loth geriebenem K&#228;se lagenweise in die Form gelegt und mit Folgendem &#252;bergossen: &#188; Ma&#223; Milch, 4 Loth geschmolzener Butter, 4 Eier gut geklopft. Man l&#228;&#223;t diesen Auflauf bei starker Hitze eine Stunde backen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>
