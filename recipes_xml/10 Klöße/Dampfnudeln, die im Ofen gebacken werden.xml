@@ -4,8 +4,8 @@
     <ns0:chapter>10 Kl&#246;&#223;e</ns0:chapter>
   </ns0:meta>
   <ns0:recipeName>Dampfnudeln, die im Ofen gebacken werden</ns0:recipeName>
-  <ns0:recipeKeywords />
-  <ns0:recipeIntro />
+  <ns0:recipeKeywords/>
+  <ns0:recipeIntro/>
   <ns0:recipeIngredients>
     <ns0:igdtList>
       <ns0:igdtListName>Dampfnudeln</ns0:igdtListName>
@@ -41,7 +41,7 @@
         <ns0:igdtName ref="">Milch</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
-        <ns0:igdtQuantity />
+        <ns0:igdtQuantity/>
         <ns0:igdtName ref="">Zucker</ns0:igdtName>
       </ns0:igdtListLine>
     </ns0:igdtList>
@@ -52,8 +52,8 @@
       <ns0:instrStepText>Man zerr&#252;hrt in einem Topfe &#8539; Ma&#223; lauwarmer Milch, &#188; Pfund geschmolzener Butter, 1 E&#223;l&#246;ffel voll Zucker, vier Eidotter und 2 E&#223;l&#246;ffel voll guter dicker Hefe unter einander, gie&#223;t dies auf 1 Pfund Mehl in ein Geschirr, macht einen Teig daraus, den man gut durcharbeitet und 2 Finger dick ausrollt. Dann sticht man mit einem Weinglase Kl&#246;&#223;e daraus, die man in einer ausgeschmierten Pfanne oder Sch&#252;ssel neben einander setzt, dach so, da&#223; sie Raum zum Aufgehen behalten, l&#228;&#223;t sie in gleichm&#228;&#223;iger W&#228;rme aufgehen und im hei&#223;en Ofen backen. Wenn sie gahr und gelbbraun sind, gie&#223;t man &#188; Ma&#223; kochende Milch mit Zucker dar&#252;ber, welche einzieht, l&#228;&#223;t sie noch einige Minuten im Ofen stehen und richtet sie recht hei&#223; mit brauner Butter an. </ns0:instrStepText>
     </ns0:instruction>
   </ns0:recipeInstructions>
-  <ns0:recipeSideDish />
-  <ns0:recipeOrigin />
-  <ns0:recipeSeeAlso />
-  <ns0:recipeLicense />
+  <ns0:recipeSideDish/>
+  <ns0:recipeOrigin/>
+  <ns0:recipeSeeAlso/>
+  <ns0:recipeLicense/>
 </ns0:recipe>
